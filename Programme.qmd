@@ -4,7 +4,7 @@ title: "Programme"
 
 # Overview
 
-More details to come.
+More details to come...
 
 | Date    | Time  |                |
 |---------|-------|----------------|
