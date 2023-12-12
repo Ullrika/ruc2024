@@ -1,0 +1,71 @@
+---
+title: "Risk and Uncertainty Conference, Lund 2024"
+subtitle: "Evidence and Ethics in Uncertainty Communication, Judgment, and Decision-Making"
+---
+
+![The University building from 1882](img/Universitetshuset_sep2016_18_smaller.png){width="40%,fig-align=\"center\""}
+
+# Date & Venue
+
+11-12 June 2024
+
+Lund University, Sweden
+
+# Description
+
+The 4th Risk and Uncertainty Conference (RUC) will bring together world-leading scholars on risk and uncertainty communication and is scheduled to take place between June 11-12th 2024 in Lund, Sweden.
+
+RUC 2024 will be hosted by Lund University Centre for Environmental and Climate Science, together with the Department of Philosophy and Medical Ethics at Lund University, in collaboration with King's Centre for Risk Management, Department of Geography, King's College London.
+
+The overarching theme this year is ***evidence and ethics in uncertainty communication, judgment, and decision-making***
+
+# Call for abstracts
+
+We are now accepting abstract submissions for oral talks or posters. We welcome diverse submissions across domains, including health, safety, politics, security, the environment, and climate change as long as the research has clear policy-implications.
+
+Submit your abstract before February 28th 2024
+
+[Link to submission page](https://www.cec.lu.se/webform/ruc2024)
+
+# Confirmed Keynote Speakers
+
+Professor Ellen Peters, Philip H. Knight Chair, Director, Center for Science Communication Research, University of Oregon, USA
+
+Professor Danielle Timmermans, Professor in Public Health Risk Communication, Amsterdam Public Health research institute, The Netherlands
+
+<!-- Joseph Kadane, the Leonard J. Savage University Professor of Statistics, Emeritus in the Department of Statistics and Social and Decision Sciences at Carnegie Mellon University, USA -->
+
+# Organisers
+
+::::{.columns}
+
+:::{.column width="50%}
+Centre for Environmental and Climate Science, Lund University (Dr Ullrika Sahlin)
+
+Department of Philosophy, Lund University (Professor Johannes Persson)
+
+Medical Ethics, Lund University (Professor Nils-Eric Sahlin)
+:::
+
+:::{.column width="50%}
+
+![](img/LundUniversity_C2line_RGB.png){width="44%"}
+:::
+
+::::
+
+
+
+::::{.columns}
+
+:::{.column width="50%}
+Department of Geography, King's College London (Professor Ragnar Löfstedt)
+
+:::
+
+:::{.column width="50%}
+
+![](img/kings.png){width="44%"}
+:::
+
+::::

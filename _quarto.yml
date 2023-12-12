@@ -1,0 +1,29 @@
+project:
+  type: website
+  
+
+website:
+  title: "RUC2024"
+  navbar:
+    logo: "img/LundUniversity_C2line_NEG.png"
+    logo-href: "https://www.lunduniversity.lu.se/"
+    background: "#9C6114"
+    foreground: "#000080"
+    pinned: true
+    
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Programme.qmd
+        text: Programme
+      - href: directions.qmd
+        text: Directions
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

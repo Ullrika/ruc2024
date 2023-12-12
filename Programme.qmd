@@ -1,0 +1,18 @@
+---
+title: "Programme"
+---
+
+# Overview
+
+More details to come
+
+| Date    | Time  |                |
+|---------|-------|----------------|
+| 11 June | 14.00 | Welcome        |
+|         | 17.00 | Poster session |
+|         | 19.00 | Dinner         |
+| 12 June | 10.30 | Start of day 2 |
+|         | 13.00 | Lunch          |
+|         | 17.00 | End of day 2   |
+
+
