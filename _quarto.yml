@@ -4,6 +4,7 @@ project:
 
 website:
   title: "RUC2024"
+  site-url: "https://lundruc.info"
   navbar:
     logo: "img/LundUniversity_C2line_NEG.png"
     logo-href: "https://www.lunduniversity.lu.se/"
