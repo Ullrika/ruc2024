@@ -41,7 +41,7 @@ Professor Ellen Peters, Philip H. Knight Chair, Director, Center for Science Com
 
 Professor Danielle Timmermans, Professor in Public Health Risk Communication, Amsterdam Public Health research institute, The Netherlands
 
-Keynote 3
+Keynote 3 TBC
 
 <!-- Joseph Kadane, the Leonard J. Savage University Professor of Statistics, Emeritus in the Department of Statistics and Social and Decision Sciences at Carnegie Mellon University, USA -->
 
@@ -73,7 +73,4 @@ Department of Geography, King's College London (Professor Ragnar Löfstedt)
 
 # Funding
 
-Journal of Risk Research 
-
-
-
+Journal of Risk Research
