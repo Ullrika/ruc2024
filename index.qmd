@@ -23,7 +23,7 @@ The overarching theme this year is ***evidence and ethics in uncertainty communi
 
 The number of participants is limited.
 
-Registration opens in March. There will be a conference fee (TBD)
+Registration opens in March. There will be a conference fee of at the most 2000 SEK.
 
 You can sign up your interest to be notified when registration opens on the abstract submission page.
 
@@ -38,6 +38,10 @@ Submit your abstract before February 28th 2024!
 # Confirmed Keynote Speakers
 
 Professor Ellen Peters, Philip H. Knight Chair, Director, Center for Science Communication Research, University of Oregon, USA
+
+**The power of numeric evidence in science communication**
+
+> Challenges exist in presenting numeric information in science communication. For example, public innumeracy—and experts’ concerns about providing numbers—suggest not showing them. On the other hand, people often prefer getting them and their provision can increase comprehension, trust, engagement, and healthy behaviors while reducing risk overestimates and supporting decision-maker autonomy. Presenting numeric facts without considering their comprehensibility and usability though is like throwing good money after bad. Thus, we’ll briefly examine three general strategies for nurturing comprehension and use of numbers in other persons.
 
 Professor Danielle Timmermans, Professor in Public Health Risk Communication, Amsterdam Public Health research institute, The Netherlands
 
