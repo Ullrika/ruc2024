@@ -9,6 +9,8 @@ subtitle: "Evidence and Ethics in Uncertainty Communication, Judgment, and Decis
 
 11-12 June 2024
 
+13 June Social event
+
 Lund University, Sweden
 
 [Directions](directions.qmd)
@@ -25,19 +27,19 @@ The overarching theme this year is ***evidence and ethics in uncertainty communi
 
 # Registration
 
-The number of participants is limited.  
+The number of participants is limited.
 
 Registration opens March 11th. The conference fee is 1750 SEK.
 
-The conference dinner is included in the conference fee. 
+The conference dinner is included in the conference fee.
 
 # Call for abstracts
 
 We are now accepting abstract submissions for oral talks or posters. We welcome diverse submissions across domains, including health, safety, politics, security, the environment, and climate change as long as the research has clear policy-implications.
 
-Submit your abstract before February 28th 2024! 
+Submit your abstract before February 28th 2024!
 
-Notification of acceptance is on March 11th the latest.  
+Notification of acceptance is on March 11th the latest.
 
 [Link to submission page](https://www.cec.lu.se/webform/ruc2024)
 
@@ -51,10 +53,13 @@ Professor Ellen Peters, Philip H. Knight Chair, Director, Center for Science Com
 
 Professor Danielle Timmermans, Professor in Public Health Risk Communication, Amsterdam Public Health research institute, The Netherlands
 
-*tentative* **Scientific uncertainty during the Corona pandemic**
+**Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?**
+
+> Despite major uncertainties at the beginning of the COVID19 pandemic, communications to the public in the Netherlands often lacked references to the uncertainty of scientific knowledge about e.g. the contagiousness of the virus. Only later in the pandemic did politicians and experts more often mention the associated risks and uncertainties. This may have to do with the perception of politicians and experts that the public cannot deal with uncertainties and therefore they played down the uncertainty. Furthermore, uncertainty about scientific evidence may not have been relevant to policy decisions on measures to control the pandemic at specific phases of the pandemic. I will discuss the results of our recent interview study with Dutch policymakers, scientific experts and communications professionals involved in advising politicians on how to deal with the pandemic.
 
 Joseph Kadane, the Leonard J. Savage University Professor of Statistics, Emeritus in the Department of Statistics and Social and Decision Sciences at Carnegie Mellon University, USA
 
+*title and abstract*
 
 # Organisers
 
