@@ -9,8 +9,6 @@ subtitle: "Evidence and Ethics in Uncertainty Communication, Judgment, and Decis
 
 11-12 June 2024
 
-13 June Social event
-
 Lund University, Sweden
 
 [Directions](directions.qmd)

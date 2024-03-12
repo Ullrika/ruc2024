@@ -2,19 +2,17 @@
 title: "Programme"
 ---
 
-| Date         | Time  |                                              |
-|--------------|-------|----------------------------------------------|
-| 11 June      | 14.00 | Welcome                                      |
-|              |       | Keynote                                      |
-|              |       | Contributing talks                           |
-|              |       | Keynote                                      |
-|              | 17.00 | Networking reception & poster session        |
-|              | 19.00 | Dinner                                       |
-| 12 June      | 10.30 | Keynote                                      |
-|              |       | Contributing talks                           |
-|              | 13.00 | Lunch                                        |
-|              | 14.00 | Keynote                                      |
-|              |       | Contributing talks                           |
-|              | 17.00 | Closing of the conference                    |
-| Social event |       | Departure for a trip to Österlen             |
-| 13 June      | 16.00 | Return to Malmö Train station                |
+| Date    | Time  |                                       |
+|---------|-------|---------------------------------------|
+| 11 June | 14.00 | Welcome                               |
+|         |       | Keynote                               |
+|         |       | Contributing talks                    |
+|         |       | Keynote                               |
+|         | 17.00 | Networking reception & poster session |
+|         | 19.00 | Dinner                                |
+| 12 June | 10.30 | Keynote                               |
+|         |       | Contributing talks                    |
+|         | 13.00 | Lunch                                 |
+|         | 14.00 | Keynote                               |
+|         |       | Contributing talks                    |
+|         | 17.00 | Closing of the conference             |
