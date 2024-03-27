@@ -3,60 +3,39 @@ tbl-colwidths: [10,70,20]
 from: markdown+emoji
 ---
 
+The latest version of the program
+
 # Program {#sec-program}
 
-:bulb:: Keynote, :microphone:: Invited or contributing presentation, :clipboard:: Poster
+\*\* :bulb:: Keynote, :microphone:: Invited presentation, :clipboard:: Poster
 
-:bulb: [The power of numeric evidence in science communication](#abs-peters) Ellen Peters
+| Time  | Title                                                                                                                                                | Speaker                             |
+|------------------|-------------------------|-----------------------------|
+| 10:00 | Welcome: 10 years of Bayes\@Lund                                                                                                                     | Dmytro Perepolkin<br/> Rasmus Bååth |
+|       | **Meta-analysis**                                                                                                                                    |                                     |
+| 10:10 | :bulb: [Bayesian Network Meta-Analysis for Healthcare Decision Making](#abs-welton)                                                                  | Nicky Welton                        |
+| 11:00 | [Do beta-blockers reduce negative intrusive thoughts and anxiety in cancer survivors? – A Bayesian analysis of emulated trials](#abs-bock)           | David Bock et al                    |
+| 11:20 | :coffee: *Coffee Break*                                                                                                                              |                                     |
+|       | **Prior specification**                                                                                                                              |                                     |
+| 11:40 | [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](#abs-bockting)                                                         | Florence Bockting et al             |
+| 12:00 | [Translating predictive distributions into informative priors](#abs-goudie)                                                                          | Robert Goudie, Andrew Manderson     |
+| 12:20 | [Pushing for Bayesian Methods in Empirical Software Engineering](#abs-couderc)                                                                       | Noric Couderc et al                 |
+| 12:40 | :coffee: *Lunch*                                                                                                                                     |                                     |
+|       | **Spatial Bayesian models**                                                                                                                          |                                     |
+| 13:30 | :bulb: [`inlabru`: Bayesian spatial and spatio-temporal modelling in R](#abs-lindgren)                                                               | Finn Lindgren                       |
+| 14:20 | [POLLENOMICS: Decoding the Farming History of Europe Using a Bayesian Approach Combining Compositional Data with a Point Process](#abs-pirzamanbein) | Behnaz Pirzamanbein et al           |
+| 14:40 | [Computationally Efficient Hierarchical Gaussian Process Regression for Functional Data](#abs-hoffmann)                                              | Adam Gorm Hoffmann et al            |
+| 15:00 | :coffee: *Coffee Break*                                                                                                                              |                                     |
+|       | **Use of Bayesian methods**                                                                                                                          |                                     |
+| 15:10 | [Using a Bayesian model for clinical study design and blinded data review](#abs-werner)                                                              | Erik Werner                         |
+| 15:30 | [Conceptualizing Neuronal Networks as Vector Fields: A Bayesian Perspective on Brain Function](#abs-szeier)                                          | Szilvia Szeier, Henrik Jörntell     |
+| 15:50 | [The Bayesian Approach to Numerical Analysis](#abs-tronarp)                                                                                          | Filip Tronarp                       |
+| 16:10 | [Bottom-up mechanistic ecosystem models framed Bayesian](#abs-traylor)                                                                               | Wolfgang Traylor                    |
+|       | **Future outlook**                                                                                                                                   |                                     |
+| 16:30 | Closing remarks: My wish list for Bayes\@Lund in the future                                                                                          | Ullrika Sahlin                      |
+| 16:40 | *End*                                                                                                                                                |                                     |
 
-:bulb: [title](#abs-kadane) Joseph (Jay) Kadane 
-
-:bulb: [Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?](#abs-timmermans) Danielle Timmermans
-
-:microphone: [The Power of Emotion in Risk Communication](#abs-joffe) Helen Joffe
-
-:microphone: [Uncertainty, expertise, and persuasion: A replication and extension of Karmarkar and Tormala (2010)](#abs-lohre)  Erik Løhre et al 
-
-:microphone: [Experiences from testing methods for decision making under deep uncertainty (DMDU) in relation to climate change adaptation in Swedish municipalities](#abs-carstens) Christoffer Carstens
-
-:microphone: [Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability](#abs-troffaes) Matthias Troffaes
-
-:microphone: [(tentative) Navigating deep uncertainty](#abs-logan) Tom Logan
-
-:microphone: [Assessing large-scale climate adaptation interventions from the perspective of intergenerational justice: Preserving options and avoiding irreversible planetary loss](#abs-doorn) Neelke Doorn
-
-:microphone: [Exploring Customer Loyalty Changes Amid Climate Activism Targeting Oil Companies and Banks](#abs-diaz) Aitor Marcos Diaz
-
-:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard
-
-:microphone: TBC
-
-:clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett
-
-:clipboard: [Translating predictive distributions into informative priors](#abs-saxena) Isha Saxena
-
-:clipboard: Submission for posters is still open
-
-# Schedule
-
-| Date    | Time  |                                       |
-|---------|-------|---------------------------------------|
-| 11 June | 14.00 | Welcome                               |
-|         |       | :bulb: Keynote                        |
-|         |       | :microphone: Contributing talks       |
-|         |       | :clipboard: Poster highlights         |
-|         | 17.00 | Networking reception & poster session |
-|         | 19.00 | Dinner                                |
-| 12 June | 10.30 | :bulb: Keynote                        |
-|         |       |  :microphone: Contributing talks      |
-|         | 13.00 | Lunch                                 |
-|         | 14.00 | :bulb: Keynote                        |
-|         |       | :microphone: Contributing talks       |
-|         | 17.00 | Closing of the conference             |
-
-
-
-# Abstracts Keynote talks
+# Abstracts
 
 <!-- #### Title \| Author, Affiliation {#abs-lastname} -->
 
@@ -66,15 +45,13 @@ from: markdown+emoji
 
 Challenges exist in presenting numeric information in science communication. For example, public innumeracy—and experts’ concerns about providing numbers—suggest not showing them. On the other hand, people often prefer getting them and their provision can increase comprehension, trust, engagement, and healthy behaviors while reducing risk overestimates and supporting decision-maker autonomy. Presenting numeric facts without considering their comprehensibility and usability though is like throwing good money after bad. Thus, we’ll briefly examine three general strategies for nurturing comprehension and use of numbers in other persons. [:arrow_up_small:](#sec-program)
 
-#### Title \| Joseph (Jay) Kadane, Carnegie Mellon University, USA {#abs-kadane}
-
-Abstract in prep
-
 #### Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea? \| Danielle Timmermans, Amsterdam Public Health research institute, The Netherlands {#abs-timmermans}
 
 Despite major uncertainties at the beginning of the COVID19 pandemic, communications to the public in the Netherlands often lacked references to the uncertainty of scientific knowledge about e.g. the contagiousness of the virus. Only later in the pandemic did politicians and experts more often mention the associated risks and uncertainties. This may have to do with the perception of politicians and experts that the public cannot deal with uncertainties and therefore they played down the uncertainty. Furthermore, uncertainty about scientific evidence may not have been relevant to policy decisions on measures to control the pandemic at specific phases of the pandemic. I will discuss the results of our recent interview study with Dutch policymakers, scientific experts and communications professionals involved in advising politicians on how to deal with the pandemic. [:arrow_up_small:](#sec-program)
 
-# Abstracts Invited and contributing talks
+#### Title \| Joseph (Jay) Kadane, Carnegie Mellon University, USA {#abs-kadane}
+
+Abstract
 
 #### The Power of Emotion in Risk Communication \| Helene Joffe, University College London, UK {#abs-joffe}
 
@@ -82,7 +59,7 @@ There is much debate about the power of numeric information in conveying risk. I
 
 #### Uncertainty, expertise, and persuasion: A replication and extension of Karmarkar and Tormala (2010) \| Erik Løhre et al BI Norwegian Business School, Norway {#abs-lohre}
 
- <!--#Erik Løhre (presenter), Subramanya Prasad Chandrashekar, Lewend Mayiwar, Thorvald Hærem  -->
+# <!--#Erik Løhre (presenter), Subramanya Prasad Chandrashekar, Lewend Mayiwar, Thorvald Hærem  -->
 
 If you are trying to persuade someone, expressing your opinion with certainty intuitively seems like a good strategy to maximize your influence. However, Karmarkar and Tormala (2010) found that the effectiveness of this tactic depends on expertise. In three experiments, Karmarkar and Tormala found support for an incongruity hypothesis, whereby non-expert sources can gain interest and influence by expressing certainty, while expert sources can increase persuasion by expressing uncertainty. In this Registered Report, we conducted a high-powered (N = 1018) direct replication of Experiment 2 by Karmarkar and Tormala (2010). In a consumer behavior context, the original study examined whether source expertise moderated the positive effect of source certainty on the persuasive impact of a restaurant recommendation. The present replication failed to find support for the incongruity hypothesis, ηp2 =.00 \[.00, .02\]: expressing certainty had a positive but non-significant effect for non-experts, Cohen’s d = 0.10 \[-0.10, 0.34\], and a positive effect for experts, Cohen’s d = 0.28 \[0.03, 0.52\]. Instead, the results supported the competing confidence heuristic hypothesis that expressed certainty would have a positive effect on persuasion, irrespective of source expertise, Cohen’s d = 0.18 \[0.01, 0.36\]. Extending the original work, we (1) controlled for the reason given for (un)certainty, and (2) examined need for closure as a potential individual difference moderator. The results indicated robust support for the confidence heuristic, but found that neither reason for (un)certainty nor need for closure moderated the effect. All materials, data, and code are available in the [preprint](https://osf.io/hbjyv/?view_only=4fa551dff0574e0b9c24f80c1d18cf4a) [:arrow_up_small:](#sec-program)
 
@@ -96,9 +73,9 @@ Experiences from the almost 10-year programs indicate that municipalities in gen
 
 #### Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability \| Matthias Troffaes, Durham University, UK {#abs-troffaes}
 
-In this contribution, I will present a novel interpretation of bounded probability which is arguably more suitable for elicitation and communication of severe uncertainty in risk analysis. To do so, I propose an adjustment of Lindley's urn interpretation of probability to allow for infinite spaces and real-valued bounded expectations, which are ubiquitous in statistical analysis. I show this interpretation is mathematically equivalent to Williams's betting interpretation of lower previsions. This means that all the mathematical techniques and tools developed for lower previsions are completely accessible also under this new interpretation. I go through a small example in Bayesian elicitation and inference to show how this interpretation might work in practice. [:arrow_up_small:](#sec-program)
+In this contribution, I will present a novel interpretation of bounded probability which is arguably more suitable for elicitation and communication of severe uncertainty in risk analysis. To do so, I propose an adjustment of Lindley's urn interpretation of probability to allow for infinite spaces and real-valued bounded expectations, which are ubiquitous in statistical analysis. I show this interpretation is mathematically equivalent to Williams's betting interpretation of lower previsions. This means that all the mathematical techniques and tools developed for lower previsions are completely accessible also under this new interpretation. I go through a small example in Bayesian elicitation and inference to show how this interpretation might work in practice.
 
-#### (tentative) Navigating deep uncertainty \| Tom Logan, University of Canterbury, New Zealand {#abs-logan}
+#### Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability \| Tom Logan, University of Canterbury, New Zealand {#abs-logan}
 
 The future is marked by unprecedented uncertainty, demanding a re-evaluation of how we make decisions. The challenges facing society today are complex and made up of layers of uncertainty, such as climate change, population dynamics, economic shifts, and rapid technological advancements. These layers compound, creating disagreement within scientific and planning communities, the very definition of deep uncertainty.
 
@@ -132,18 +109,15 @@ The National Forensic Centre (NFC) of the Swedish Police Authority does not use 
 
 The probabilities assessed are in most cases subjective, i.e. they are assessed based on experience and subject knowledge with the expert, and general experience within the global forensic community. However, they are normally not very precise and because the alternative hypotheses may be many, it is important to report probabilities that do not overstate the strength of the forensic findings. Therefore, a scale of conclusions is used to report the assigned Bayes factor, where the different scale levels correspond to intervals of the Bayes factor. [:arrow_up_small:](#sec-program)
 
-#### Climate adaptation in multi-level governance systems: security, risk, or normal politics? \| Karina Barquet, Stockholm Environmental Institute, Sweden {#abs-barquet}
-
-Using a securitization lens, this article delves into the discourse surrounding the climate crisis and its impact on the making and implementation of climate adaptation strategies in Sweden. The primary objective is to discern whether climate change is understood and addressed as a crisis within Swedish climate adaptation policy, examining its practical implications from national to local levels. Through a thorough review of key documents coupled with triangulated key informant interviews, we scrutinize the discourses employed to frame climate adaptation. Specifically, we assess whether these discourses align with threatification, riskification, or normal policy paradigms, and explore the actors and tools involved in creating this framing. Our findings illustrate the emergence of the climate crisis discourse and corresponding practices at various levels of governance, occasionally differing among administrative divisions and sectors. Nationally, climate adaptation is managed akin to any other policy domain. The formulation of objectives and priorities for climate adaptation takes place through centralized decision-making, then monitored through accountability mechanisms spanning national, subregional, and local levels. The national government maintains financial and monitoring control throughout this chain. Municipalities possess significant autonomy in determining the means and methods to achieve national adaptation objectives, using funds allocated as part of the government’s general municipality budget. This local autonomy helps to explain our findings that reveal more pronounced risk-oriented discourses and practices at the local level, reflecting local public authorities' endeavors to secure resources for implementing interventions tailored to address specific local conditions. In addition to public authorities, our study underscores the influential role of experts and scientists in shaping the discourse surrounding the climate crisis at all governance levels. Taken together, these insights confirm an asymmetrical relationship regarding who informs the debate, whereby experts and scientists wield significant power in defining climate adaptation in risk terms. [:arrow_up_small:](#sec-program)
-
-# Abstracts Posters
-
 #### Translating predictive distributions into informative priors \| Isha Saxena, Durham University, UK {#abs-saxena}
 
 Current models oversimplify failure and repair processes, hindering accurate maintenance scheduling and cost reduction efforts. This research uses Supervisory Control and Data Acquisition (SCADA) data to develop a more precise reliability analysis framework. The study uses Maximum Likelihood Estimation (MLE), and Bayesian Parameter Expectation to model times to failure and times to repair data for wind turbine components. Bayesian methods are particularly advantageous in handling uncertainty inherent in complex systems. However, using informative priors presents a challenge, given the complex nature of turbine failures as well as lack of data. Bayesian inference techniques are utilized to compute posterior distributions, capturing updated beliefs about model parameters after observing SCADA data. Computational complexity arises due to the large datasets and intricate model specifications. Furthermore, the study extends beyond individual component failures to consider the interactions and dependencies within wind turbine systems. The research aims to address the following questions: How can failure and repair processes be modelled more accurately using a different statistical model? How do the new statistical models differ from the existing models?
 
 The poster presentation will showcase the methodology, challenges, and preliminary findings of the Bayesian Parameter Estimation and Maximum Likelihood Estimation. Validation has been carried out by using prior and posterior predictive methods. By bridging the gap between theoretical models and real-world data, this research contributes to the advancement of offshore wind turbine reliability assessment and supports the UK's transition towards a sustainable energy landscape. [:arrow_up_small:](#sec-program)
 
+#### Climate adaptation in multi-level governance systems: security, risk, or normal politics? \| Karina Barquet, Stockholm Environmental Institute, Sweden {#abs-barquet}
+
+Using a securitization lens, this article delves into the discourse surrounding the climate crisis and its impact on the making and implementation of climate adaptation strategies in Sweden. The primary objective is to discern whether climate change is understood and addressed as a crisis within Swedish climate adaptation policy, examining its practical implications from national to local levels. Through a thorough review of key documents coupled with triangulated key informant interviews, we scrutinize the discourses employed to frame climate adaptation. Specifically, we assess whether these discourses align with threatification, riskification, or normal policy paradigms, and explore the actors and tools involved in creating this framing. Our findings illustrate the emergence of the climate crisis discourse and corresponding practices at various levels of governance, occasionally differing among administrative divisions and sectors. Nationally, climate adaptation is managed akin to any other policy domain. The formulation of objectives and priorities for climate adaptation takes place through centralized decision-making, then monitored through accountability mechanisms spanning national, subregional, and local levels. The national government maintains financial and monitoring control throughout this chain. Municipalities possess significant autonomy in determining the means and methods to achieve national adaptation objectives, using funds allocated as part of the government’s general municipality budget. This local autonomy helps to explain our findings that reveal more pronounced risk-oriented discourses and practices at the local level, reflecting local public authorities' endeavors to secure resources for implementing interventions tailored to address specific local conditions. In addition to public authorities, our study underscores the influential role of experts and scientists in shaping the discourse surrounding the climate crisis at all governance levels. Taken together, these insights confirm an asymmetrical relationship regarding who informs the debate, whereby experts and scientists wield significant power in defining climate adaptation in risk terms. [:arrow_up_small:](#sec-program)
 
 #### Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress \| Sarah Duckett, King's College London, UK {#abs-duckett}
 

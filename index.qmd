@@ -1,6 +1,10 @@
 ---
 title: "Risk and Uncertainty Conference, Lund 2024"
 subtitle: "Evidence and Ethics in Uncertainty Communication, Judgment, and Decision-Making"
+
+links:
+  - text: Email
+    href: mailto:ullrika.sahlin@cec.lu.se
 ---
 
 ![The University building from 1882](img/Universitetshuset_sep2016_18_smaller.png){width="40%,fig-align=\"center\""}
@@ -15,7 +19,7 @@ Lund University, Sweden
 
 # Description
 
-The 4th Risk and Uncertainty Conference (RUC) will bring together world-leading scholars on risk and uncertainty communication and is scheduled to take place between June 11-12th 2024 in Lund, Sweden. [Previous RUC](History.qmd)
+The 4th Risk and Uncertainty Conference (RUC) will bring together world-leading scholars on risk and uncertainty communication and is scheduled to take place between June 11-12th 2024 in Lund, Sweden. [Previous RUC meetings](History.qmd)
 
 RUC 2024 is hosted by Medical Ethics, the Centre for Environmental and Climate Science and the Department of Philosophy at Lund University, in collaboration with King's Centre for Risk Management, Department of Geography, King's College London.
 
@@ -25,23 +29,23 @@ The overarching theme this year is ***evidence and ethics in uncertainty communi
 
 # Registration
 
-The number of participants is limited.
+The number of participants is limited. The conference fee is 1750 SEK and the conference dinner is included in the conference fee.
 
-Registration opens March 11th. The conference fee is 1750 SEK.
+Contact the organisers (Ullrika Sahlin) directly that you would like to attend. 
 
-The conference dinner is included in the conference fee.
+The organisers then send a link for registration to those that have an accepted abstract have shown an interest that they would like to attend the meeting. We will prioritise attendees that will be active and participate in the full meeting, including the conference dinner. 
 
 # Call for abstracts
 
-We are now accepting abstract submissions for oral talks or posters. We welcome diverse submissions across domains, including health, safety, politics, security, the environment, and climate change as long as the research has clear policy-implications.
+There is still room for a few more oral talks and plenty of room for posters (including voluntary highlighting talks) [Current accepted abstracts](Programme.qmd) 
 
-Submit your abstract **preferably as soon as possible!**
+We will continuously review abstract submissions for oral talks or posters. We welcome diverse submissions across domains, including health, safety, politics, security, the environment, and climate change as long as the research has clear policy-implications.
 
-Notification of acceptance is on March 11th the latest.
+Submit your abstract **as soon as possible!** and also notify [Ullrika Sahlin by mail](mailto:ullrika.sahlin@cec.lu.se)
 
 [Link to submission page](https://www.cec.lu.se/webform/ruc2024)
 
-# Confirmed Keynote Speakers
+# Keynote Speakers
 
 Professor Ellen Peters, Philip H. Knight Chair, Director, Center for Science Communication Research, University of Oregon, USA
 
@@ -49,15 +53,16 @@ Professor Ellen Peters, Philip H. Knight Chair, Director, Center for Science Com
 
 > Challenges exist in presenting numeric information in science communication. For example, public innumeracy—and experts’ concerns about providing numbers—suggest not showing them. On the other hand, people often prefer getting them and their provision can increase comprehension, trust, engagement, and healthy behaviors while reducing risk overestimates and supporting decision-maker autonomy. Presenting numeric facts without considering their comprehensibility and usability though is like throwing good money after bad. Thus, we’ll briefly examine three general strategies for nurturing comprehension and use of numbers in other persons.
 
+Joseph Kadane, the Leonard J. Savage University Professor of Statistics, Emeritus in the Department of Statistics and Social and Decision Sciences at Carnegie Mellon University, USA
+
+*title and abstract*
+
 Professor Danielle Timmermans, Professor in Public Health Risk Communication, Amsterdam Public Health research institute, The Netherlands
 
 **Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?**
 
 > Despite major uncertainties at the beginning of the COVID19 pandemic, communications to the public in the Netherlands often lacked references to the uncertainty of scientific knowledge about e.g. the contagiousness of the virus. Only later in the pandemic did politicians and experts more often mention the associated risks and uncertainties. This may have to do with the perception of politicians and experts that the public cannot deal with uncertainties and therefore they played down the uncertainty. Furthermore, uncertainty about scientific evidence may not have been relevant to policy decisions on measures to control the pandemic at specific phases of the pandemic. I will discuss the results of our recent interview study with Dutch policymakers, scientific experts and communications professionals involved in advising politicians on how to deal with the pandemic.
 
-Joseph Kadane, the Leonard J. Savage University Professor of Statistics, Emeritus in the Department of Statistics and Social and Decision Sciences at Carnegie Mellon University, USA
-
-*title and abstract*
 
 # Organisers
 

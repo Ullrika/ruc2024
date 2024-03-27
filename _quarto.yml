@@ -4,7 +4,7 @@ project:
 
 website:
   title: "RUC2024"
-  site-url: "https://lundruc.info"
+  site-url: "https://lundruc.org"
   navbar:
     logo: "img/LundUniversity_C2line_NEG.png"
     logo-href: "https://www.lunduniversity.lu.se/"
@@ -21,12 +21,15 @@ website:
         text: Programme
       - href: directions.qmd
         text: Directions
+        
+  
     
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    email-obfuscation: javascript
 
 editor: visual
 

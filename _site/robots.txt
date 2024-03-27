@@ -1,1 +1,1 @@
-Sitemap: https://lundruc.info/sitemap.xml
+Sitemap: https://lundruc.org/sitemap.xml
