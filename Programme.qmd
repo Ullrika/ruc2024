@@ -23,6 +23,8 @@ from: markdown+emoji
 
 :microphone: [(tentative) Navigating deep uncertainty](#abs-logan) Tom Logan
 
+:microphone: [Climate adaptation in multi-level governance systems: security, risk, or normal politics?](#abs-barquet) Karina Barquet
+
 :microphone: [Assessing large-scale climate adaptation interventions from the perspective of intergenerational justice: Preserving options and avoiding irreversible planetary loss](#abs-doorn) Neelke Doorn
 
 :microphone: [Elicitation of structured expert judgements from groups – protocols, experiences and interpreting the results](#abs-wilson) Kevin Wilson
@@ -143,7 +145,6 @@ The probabilities assessed are in most cases subjective, i.e. they are assessed 
 Using a securitization lens, this article delves into the discourse surrounding the climate crisis and its impact on the making and implementation of climate adaptation strategies in Sweden. The primary objective is to discern whether climate change is understood and addressed as a crisis within Swedish climate adaptation policy, examining its practical implications from national to local levels. Through a thorough review of key documents coupled with triangulated key informant interviews, we scrutinize the discourses employed to frame climate adaptation. Specifically, we assess whether these discourses align with threatification, riskification, or normal policy paradigms, and explore the actors and tools involved in creating this framing. Our findings illustrate the emergence of the climate crisis discourse and corresponding practices at various levels of governance, occasionally differing among administrative divisions and sectors. Nationally, climate adaptation is managed akin to any other policy domain. The formulation of objectives and priorities for climate adaptation takes place through centralized decision-making, then monitored through accountability mechanisms spanning national, subregional, and local levels. The national government maintains financial and monitoring control throughout this chain. Municipalities possess significant autonomy in determining the means and methods to achieve national adaptation objectives, using funds allocated as part of the government’s general municipality budget. This local autonomy helps to explain our findings that reveal more pronounced risk-oriented discourses and practices at the local level, reflecting local public authorities' endeavors to secure resources for implementing interventions tailored to address specific local conditions. In addition to public authorities, our study underscores the influential role of experts and scientists in shaping the discourse surrounding the climate crisis at all governance levels. Taken together, these insights confirm an asymmetrical relationship regarding who informs the debate, whereby experts and scientists wield significant power in defining climate adaptation in risk terms. [:arrow_up_small:](#sec-program)
 
 # Abstracts Posters
-
 
 #### Distributing responsibility for managing uncertain issues - on what ethical grounds? \| Åsa Knaggård, Lund University, Sweden {#abs-knaggard}
 
