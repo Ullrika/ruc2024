@@ -33,13 +33,13 @@ The overarching theme this year is ***evidence and ethics in uncertainty communi
 
 The number of participants is limited to 40 persons. The conference fee is 1750 SEK and the conference dinner is included in the conference fee.
 
-Contact the organisers (Ullrika Sahlin) directly that you would like to attend. 
+Contact the organisers (Ullrika Sahlin) directly that you would like to attend.
 
-The organisers send a link for registration to those that have an accepted abstract have shown an interest that they would like to attend the meeting. We will prioritise attendees that will be active and participate in the full meeting, including the conference dinner. 
+The organisers send a link for registration to those that have an accepted abstract have shown an interest that they would like to attend the meeting. We will prioritise attendees that will be active and participate in the full meeting, including the conference dinner.
 
 # Call for abstracts
 
-There is still room for a few more oral talks and plenty of room for posters (including voluntary highlighting talks) [Current accepted abstracts](Programme.qmd) 
+There is still room for a few more oral talks and plenty of room for posters (including voluntary highlighting talks) [Current accepted abstracts](Programme.qmd)
 
 We will continuously review abstract submissions for oral talks or posters. We welcome diverse submissions across domains, including health, safety, politics, security, the environment, and climate change as long as the research has clear policy-implications.
 
@@ -49,22 +49,23 @@ Submit your abstract **as soon as possible!** and also notify [Ullrika Sahlin by
 
 # Keynote Speakers
 
-Professor Ellen Peters, Philip H. Knight Chair, Director, Center for Science Communication Research, University of Oregon, USA
+Professor **Ellen Peters**, Philip H. Knight Chair, Director, Center for Science Communication Research, University of Oregon, USA
 
 **The power of numeric evidence in science communication**
 
 > Challenges exist in presenting numeric information in science communication. For example, public innumeracy—and experts’ concerns about providing numbers—suggest not showing them. On the other hand, people often prefer getting them and their provision can increase comprehension, trust, engagement, and healthy behaviors while reducing risk overestimates and supporting decision-maker autonomy. Presenting numeric facts without considering their comprehensibility and usability though is like throwing good money after bad. Thus, we’ll briefly examine three general strategies for nurturing comprehension and use of numbers in other persons.
 
-Joseph Kadane, the Leonard J. Savage University Professor of Statistics, Emeritus in the Department of Statistics and Social and Decision Sciences at Carnegie Mellon University, USA
+**Joseph B. ("Jay") Kadane**, the Leonard J. Savage University Professor of Statistics, Emeritus in the Department of Statistics and Social and Decision Sciences at Carnegie Mellon University, USA
 
-*title and abstract*
+**Interpersonal Bayesian Analysis: Foundations, Ethics, and Communication**
 
-Professor Danielle Timmermans, Professor in Public Health Risk Communication, Amsterdam Public Health research institute, The Netherlands
+> I review the basics of Bayesianism, emphasizing its personal or subjective roots. Both the probability model (likelihood and prior) and the utility function are thus the responsibility of the analyst. I also review the impossibility theorem that studies two Bayesians who differ in both probability and utility. They seek a Bayesian compromise subject only to the constraint that if each prefers option A to another B, then their compromise must also. Under these conditions the only Bayesian compromises are autocratic: make decisions optimal for one of the two parties. After rejecting solipsism (it doesn't matter what anybody else thinks), I recount an environmental study in which there were choices of what to report, one unethical, two solipsistic, but one both ethical and non-solipsistic. I close with suggestions about communication.
+
+Professor **Danielle Timmermans**, Professor in Public Health Risk Communication, Amsterdam Public Health research institute, The Netherlands
 
 **Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?**
 
 > Despite major uncertainties at the beginning of the COVID19 pandemic, communications to the public in the Netherlands often lacked references to the uncertainty of scientific knowledge about e.g. the contagiousness of the virus. Only later in the pandemic did politicians and experts more often mention the associated risks and uncertainties. This may have to do with the perception of politicians and experts that the public cannot deal with uncertainties and therefore they played down the uncertainty. Furthermore, uncertainty about scientific evidence may not have been relevant to policy decisions on measures to control the pandemic at specific phases of the pandemic. I will discuss the results of our recent interview study with Dutch policymakers, scientific experts and communications professionals involved in advising politicians on how to deal with the pandemic.
-
 
 # Organisers
 
