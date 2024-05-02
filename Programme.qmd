@@ -21,7 +21,7 @@ from: markdown+emoji
 
 :microphone: [Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability](#abs-troffaes) Matthias Troffaes
 
-:microphone: [Navigating deep uncertainty](#abs-logan) Tom Logan
+:microphone: [Selecting the Right Decision Making Under Deep Uncertainty Approaches for Climate Adaptation Planning](#abs-logan) Tom Logan
 
 :microphone: [Climate adaptation in multi-level governance systems: security, risk, or normal politics?](#abs-barquet) Karina Barquet
 
@@ -37,15 +37,16 @@ from: markdown+emoji
 
 :microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk
 
-:microphone: [TBC](#abs-zander) Joakim Zander
-
-:clipboard: [Distributing responsibility for managing uncertain issues - on what ethical grounds?](#abs-knaggard) Åsa Knaggård
+<!-- :microphone: [TBC](#abs-zander) Joakim Zander -->
 
 :clipboard: [Prediction Markets for Likelihood Estimation and Understanding Risk Perceptions](#abs-bonin) Ben Bonin and Nate Clough
 
 :clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett
 
 :clipboard: [Bayesian uncertainty analysis for wind energy systems](#abs-saxena) Isha Saxena
+
+:clipboard: [Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway](#abs-ochsner) Michelle Ochsner et al.
+
 
 :clipboard: Submission for posters is still open
 
@@ -108,7 +109,7 @@ Experiences from the almost 10-year programs indicate that municipalities in gen
 
 In this contribution, I will present a novel interpretation of bounded probability which is arguably more suitable for elicitation and communication of severe uncertainty in risk analysis. To do so, I propose an adjustment of Lindley's urn interpretation of probability to allow for infinite spaces and real-valued bounded expectations, which are ubiquitous in statistical analysis. I show this interpretation is mathematically equivalent to Williams's betting interpretation of lower previsions. This means that all the mathematical techniques and tools developed for lower previsions are completely accessible also under this new interpretation. I go through a small example in Bayesian elicitation and inference to show how this interpretation might work in practice. [:arrow_up_small:](#sec-program)
 
-#### Navigating deep uncertainty \| Tom Logan, University of Canterbury, New Zealand {#abs-logan}
+#### Selecting the Right Decision Making Under Deep Uncertainty Approaches for Climate Adaptation Planning \| Tom Logan, University of Canterbury, New Zealand {#abs-logan}
 
 The future is marked by unprecedented uncertainty, demanding a re-evaluation of how we make decisions. The challenges facing society today are complex and made up of layers of uncertainty, such as climate change, population dynamics, economic shifts, and rapid technological advancements. These layers compound, creating disagreement within scientific and planning communities, the very definition of deep uncertainty.
 
@@ -158,9 +159,9 @@ Communicating uncertainty within the policy-making process is important to effec
 
 Socio-scientific issues (SSI) have become an established part of science education, aiming to teach students not only about content knowledge but also about the nature of science and to offer them practice in argumentation and decision making. In the 7-year multidisciplinary project, RiskEdu, several risk-oriented SSI-teaching modules in biology, chemistry, physics and natural science were iteratively developed. To which extent risk and how to assess it were formally introduced varied. Our results show that students can participate in a risk-oriented SSI-task without having detailed knowledge of risk assessment or risk as a concept. However, when introducing students to the risk assessment structure it also served as a scaffold for their argumentation. Through the lens of RiskEdu’s empirical findings and a review of the published SSI literature, I will discuss how SSIs present opportunities for leveraging risk in science education. However, there are also obstacles and if the aim is to foster a deeper understanding of risk and risk analysis, teachers need support in policy and curricula as well as tools and teaching resources targeting these aims. [:arrow_up_small:](#sec-program)
 
-#### Title \| Joakim Zander, Lund University, Sweden {#abs-zander}
+<!-- #### Title \| Joakim Zander, Lund University, Sweden {#abs-zander} -->
 
-Abstract [:arrow_up_small:](#sec-program)
+<!-- Abstract [:arrow_up_small:](#sec-program) -->
 
 # Abstracts Posters
 
@@ -172,9 +173,6 @@ This presentation will provide an overview of the design and trial application o
 
 If trials demonstrate its utility, then a market like CIMERA can potentially streamline SME elicitation for organizations like the Department of Homeland Security (DHS) Cybersecurity and Infrastructure Security Agency’s National Risk Management Center (CISA/NRMC), augmenting other analytic data streams in support of risk analysis, management, and communication. [:arrow_up_small:](#sec-program)
 
-#### Distributing responsibility for managing uncertain issues - on what ethical grounds? \| Åsa Knaggård, Lund University, Sweden {#abs-knaggard}
-
-abstract
 
 #### Bayesian uncertainty analysis for wind energy systems \| Isha Saxena, Durham University, UK {#abs-saxena}
 
@@ -191,5 +189,12 @@ This research comprises of four phases. Phase 1 involves interviews with risk ex
 This research is crucial as despite longstanding calls for increased risk education, progress has been hindered by vague recommendations and lack of consensus on implementation. By synthesising insights from risk experts, teacher educators, and teachers, this study aims to provide clarity and operational guidance for effective risk education in secondary schools. The findings promise to inform policy, curriculum design, and professional development initiatives, facilitating a more comprehensive and impactful approach to risk education. [:arrow_up_small:](#sec-program)
 
 <!-- #### Are they expressing un(certainty) by interval-valued evidential probabilities? \| Ullrika Sahlin, Lund University, Sweden {#abs-sahlin} -->
+
+#### Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway] Michelle Ochsner, Lund University, Sweden , Gunnel Göransson, Carl-William Palmqvist {#abs-ochsner}
+
+The call to adapt to the effects of climate change has increased over recent years. Extreme weather events are becoming more severe and frequent and are predicted to become even more so in the coming years due to climate change. Decision makers and planners face the added challenge of dealing with the uncertainties related to climate change, the changing physical environment, and changing socio-economic systems; yet decisions must still be made regardless of the unavoidable uncertainty faced. Dynamic Adaptive Policy Pathways (DAPP) is a method developed by Haasnoot et al. (2013), which uses adaptation tipping points (the conditions under which an action no longer meets the objective(s)) and different adaptation pathways in order to support decision-making. In this study, we use the case of the coastal railway in Trelleborg to test DAPP in a Swedish context. Over the course of three workshops, various stakeholders are engaged to discuss (1) the vulnerabilities, goals, and uncertainties of the system, (2) different possible adaptation solutions, and (3) different signals and thresholds for each of the solutions thus creating possible adaptation pathways. The workshops highlight the importance of stakeholder engagement when working with climate change adaptation and how adaptation can be more flexible and give insights to the barriers and opportunities for using DAPP for flexible adaptation planning in a Swedish context. 
+
+Haasnoot, M., Kwakkel, J. H., Walker, W. E., & Ter Maat, J. (2013). Dynamic adaptive policy pathways: A method for crafting robust decisions for a deeply uncertain world. Global Environmental Change, 23(2), 485–498. https://doi.org/10.1016/j.gloenvcha.2012.12.006
+[:arrow_up_small:](#abs-ochsner)
 
 [:arrow_up_small:](#sec-program)
