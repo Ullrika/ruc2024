@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lundruc.org/Programme.html</loc>
-    <lastmod>2024-05-02T09:32:45.411Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lundruc.org/History.html</loc>
-    <lastmod>2024-05-02T09:32:28.617Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lundruc.org/about.html</loc>
-    <lastmod>2024-05-02T09:32:27.756Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lundruc.org/directions.html</loc>
-    <lastmod>2024-05-02T09:32:28.201Z</lastmod>
+    <lastmod>2024-05-02T11:22:02.733Z</lastmod>
   </url>
   <url>
     <loc>https://lundruc.org/index.html</loc>
-    <lastmod>2024-05-02T09:32:29.253Z</lastmod>
+    <lastmod>2024-05-02T11:22:01.186Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lundruc.org/directions.html</loc>
+    <lastmod>2024-05-02T11:22:00.293Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lundruc.org/about.html</loc>
+    <lastmod>2024-05-02T11:21:59.885Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lundruc.org/History.html</loc>
+    <lastmod>2024-05-02T11:22:00.656Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lundruc.org/participants.html</loc>
+    <lastmod>2024-05-02T11:22:01.562Z</lastmod>
   </url>
 </urlset>

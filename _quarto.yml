@@ -21,6 +21,8 @@ website:
         text: Programme
       - href: directions.qmd
         text: Directions
+      - href: participants.qmd
+        text: Participants
         
   
     
