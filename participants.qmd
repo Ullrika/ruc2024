@@ -26,8 +26,6 @@ Talk	Helen Joffe
 
 Talk	Karina Barquet
 
-Talk	Kevin Griffith
-
 Talk	Kevin Wilson
 
 Talk	Linda Schenk
@@ -38,15 +36,11 @@ Talk	Neelke Doorn
 
 Talk	Tom Logan
 
-Poster	Ben Bonin
-
 Poster	Henrik Thorén
 
 Poster	Isha Saxena
 
 Poster	Michelle Ochsner 
-
-Poster	Nate Clough
 
 Poster	Sarah Duckett
 

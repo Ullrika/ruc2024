@@ -33,13 +33,9 @@ from: markdown+emoji
 
 :microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard
 
-:microphone: [Applications of Cyber Risk and Uncertainty Communication to Government Actors](#abs-griffith) Kevin Griffith
-
 :microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk
 
-<!-- :microphone: [TBC](#abs-zander) Joakim Zander -->
-
-:clipboard: [Prediction Markets for Likelihood Estimation and Understanding Risk Perceptions](#abs-bonin) Ben Bonin and Nate Clough
+:microphone: [TBC](#abs-zander) Joakim Zander
 
 :clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett
 
@@ -154,27 +150,17 @@ The probabilities assessed are in most cases subjective, i.e. they are assessed 
 
 Using a securitization lens, this article delves into the discourse surrounding the climate crisis and its impact on the making and implementation of climate adaptation strategies in Sweden. The primary objective is to discern whether climate change is understood and addressed as a crisis within Swedish climate adaptation policy, examining its practical implications from national to local levels. Through a thorough review of key documents coupled with triangulated key informant interviews, we scrutinize the discourses employed to frame climate adaptation. Specifically, we assess whether these discourses align with threatification, riskification, or normal policy paradigms, and explore the actors and tools involved in creating this framing. Our findings illustrate the emergence of the climate crisis discourse and corresponding practices at various levels of governance, occasionally differing among administrative divisions and sectors. Nationally, climate adaptation is managed akin to any other policy domain. The formulation of objectives and priorities for climate adaptation takes place through centralized decision-making, then monitored through accountability mechanisms spanning national, subregional, and local levels. The national government maintains financial and monitoring control throughout this chain. Municipalities possess significant autonomy in determining the means and methods to achieve national adaptation objectives, using funds allocated as part of the government’s general municipality budget. This local autonomy helps to explain our findings that reveal more pronounced risk-oriented discourses and practices at the local level, reflecting local public authorities' endeavors to secure resources for implementing interventions tailored to address specific local conditions. In addition to public authorities, our study underscores the influential role of experts and scientists in shaping the discourse surrounding the climate crisis at all governance levels. Taken together, these insights confirm an asymmetrical relationship regarding who informs the debate, whereby experts and scientists wield significant power in defining climate adaptation in risk terms. [:arrow_up_small:](#sec-program)
 
-#### Applications of Cyber Risk and Uncertainty Communication to Government Actors \| Kevin Griffith, National Security Systems Analyst, Sandia National Laboratories, USA {#abs-griffith}
 
-Communicating uncertainty within the policy-making process is important to effectively address societal challenges. This holds especially true for the constantly evolving landscape of cybersecurity; as trends emerge, vulnerabilities are discovered, and threat-actors deploy novel tactics. The U.S. Department of Homeland Security’s National Risk Management Center (NRMC) is tasked with reducing said cybersecurity risks to critical infrastructure across all sectors. To support this objective, the Risk Analytic Methods & Support (RAMS) team at Sandia Labs has developed a range of methods – both novel and adapted from other domains – to assess and communicate cyber risk. We present several different analysis products which communicate uncertainty that have been generated during Cyber Risk Framework (CRF), Prediction Market, Credit Rating, and Actuarial Approach use cases. This includes communicating uncertainty through analytical framing, order-of-magnitude estimates, geographic scale estimates, and likelihood of events. The use-cases and resulting analysis products exemplify a diverse set of possibilities to communicate uncertainty to and by government actors. These examples may serve as impetus for further investigation or adaptation to other non-cyber domains.[:arrow_up_small:](#sec-program)
 
 #### Teaching about risk in upper secondary school science: opportunities and obstacles \| Linda Schenk, Karolinska Institutet, Sweden {#abs-schenk}
 
 Socio-scientific issues (SSI) have become an established part of science education, aiming to teach students not only about content knowledge but also about the nature of science and to offer them practice in argumentation and decision making. In the 7-year multidisciplinary project, RiskEdu, several risk-oriented SSI-teaching modules in biology, chemistry, physics and natural science were iteratively developed. To which extent risk and how to assess it were formally introduced varied. Our results show that students can participate in a risk-oriented SSI-task without having detailed knowledge of risk assessment or risk as a concept. However, when introducing students to the risk assessment structure it also served as a scaffold for their argumentation. Through the lens of RiskEdu’s empirical findings and a review of the published SSI literature, I will discuss how SSIs present opportunities for leveraging risk in science education. However, there are also obstacles and if the aim is to foster a deeper understanding of risk and risk analysis, teachers need support in policy and curricula as well as tools and teaching resources targeting these aims. [:arrow_up_small:](#sec-program)
 
-<!-- #### Title \| Joakim Zander, Lund University, Sweden {#abs-zander} -->
+#### Title \| Joakim Zander, Lund University, Sweden {#abs-zander}
 
 <!-- Abstract [:arrow_up_small:](#sec-program) -->
 
 # Abstracts Posters
-
-#### Prediction Markets for Likelihood Estimation and Understanding Risk Perceptions \| Ben Bonin and Nate Clough, National Security Systems Analyst, Sandia National Laboratories, USA {#abs-bonin}
-
-Estimating event likelihood often requires elicitation of information from subject matter experts (SMEs). Relevant SMEs may be widely distributed, and perspectives may vary; it can be challenging to gather and synthesize this information in a systematic manner, leading to additional uncertainty. This is especially the case during dynamic, time-sensitive events like natural disasters, cyber-attacks, and geopolitical crises. Prediction markets leverage the “wisdom of the crowd” to assess the potential likelihood of event outcomes. Participants in such markets buy and trade “stocks” (using real or notional currency) tied to the outcome of a specific event; the value of the stock at a given time can be interpreted as an estimation of event likelihood, based on the collective judgment of the market, and can improve estimate accuracy and uncertainty communication. Real-world prediction markets facilitate trading on issues as diverse as election outcomes, economic trends, and geopolitical events; while some markets serve largely recreational purposes, others have been used to inform public and private sector decision-making.
-
-This presentation will provide an overview of the design and trial application of the Critical Infrastructure Market for Expert Risk Assessment (CIMERA), a prototype prediction market supporting critical infrastructure (CI) risk analysis. CIMERA is intended to facilitate timely collection and aggregation of SME assessments on the prospective impacts to CI of emerging or in-progress high-consequence events. Additionally, CIMERA may be able to parse out likelihood estimates across multiple participant dimensions (i.e., public, academic, government), helping to better understand the differences in risk perceptions across various societal/demographic factors.
-
-If trials demonstrate its utility, then a market like CIMERA can potentially streamline SME elicitation for organizations like the Department of Homeland Security (DHS) Cybersecurity and Infrastructure Security Agency’s National Risk Management Center (CISA/NRMC), augmenting other analytic data streams in support of risk analysis, management, and communication. [:arrow_up_small:](#sec-program)
 
 
 #### Bayesian uncertainty analysis for wind energy systems \| Isha Saxena, Durham University, UK {#abs-saxena}
