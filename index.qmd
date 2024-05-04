@@ -29,7 +29,6 @@ The overarching theme this year is ***evidence and ethics in uncertainty communi
 
 [Overview of the programme](Programme.qmd)
 
-
 # Keynote Speakers
 
 Professor **Ellen Peters**, Philip H. Knight Chair, Director, Center for Science Communication Research, University of Oregon, USA
@@ -49,7 +48,6 @@ Professor **Danielle Timmermans**, Professor in Public Health Risk Communication
 **Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?**
 
 > Despite major uncertainties at the beginning of the COVID19 pandemic, communications to the public in the Netherlands often lacked references to the uncertainty of scientific knowledge about e.g. the contagiousness of the virus. Only later in the pandemic did politicians and experts more often mention the associated risks and uncertainties. This may have to do with the perception of politicians and experts that the public cannot deal with uncertainties and therefore they played down the uncertainty. Furthermore, uncertainty about scientific evidence may not have been relevant to policy decisions on measures to control the pandemic at specific phases of the pandemic. I will discuss the results of our recent interview study with Dutch policymakers, scientific experts and communications professionals involved in advising politicians on how to deal with the pandemic.
-
 
 # Registration
 
