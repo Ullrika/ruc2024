@@ -47,6 +47,8 @@ from: markdown+emoji
 
 :clipboard: [(Un)certainty in a scientific conclusion and evidential probability](#abs-sahlin) Ullrika Sahlin
 
+:clipboard: [Educating Decision-Makers about Toxicological Risks and Uncertainties for Ethical Decisions](#abs-hellevik) Christina Carrozzo Hellevik
+
 :clipboard: Submission for posters is still open
 
 # Schedule
@@ -178,10 +180,15 @@ This research is crucial as despite longstanding calls for increased risk educat
 
 I use examples from scientific assessments by the European Food Safety Authority (EFSA) and the OHAT framework as a starting point to discuss if evidential probabilities applies on current or emerging practices for expressing a group of scientific expert's (un)certainty in a conclusion. A characterisation of uncertainty in conclusions should provide an accurate description of the experts’ (un)certainty (faithfulness), taking into account all (identified) sources of uncertainty and all available evidence (completeness). Interval-valued evidential probabilities applies for probabilities of unique events or statements of (un)certainty conditional on the available evidence. It has been argued, that interval-valued evidential probabilities can be combined with Bayesian objective epistemology. From my examples and identified challenges when working with experts, I conclude that the subjective dimension of eliciting expert's (un)certainty is unavoidable, at the same time as there are practical examples leaning towards the framework interval-valued evidential probability and Bayesian epistemology. I invite a discussion if and how to bridge these two dimensions. [:arrow_up_small:](#sec-program)
 
-#### Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway\] Michelle Ochsner, Lund University, Sweden , Gunnel Göransson, Carl-William Palmqvist {#abs-ochsner}
+#### Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway\| Michelle Ochsner, Lund University, Sweden , Gunnel Göransson, Carl-William Palmqvist {#abs-ochsner}
 
 The call to adapt to the effects of climate change has increased over recent years. Extreme weather events are becoming more severe and frequent and are predicted to become even more so in the coming years due to climate change. Decision makers and planners face the added challenge of dealing with the uncertainties related to climate change, the changing physical environment, and changing socio-economic systems; yet decisions must still be made regardless of the unavoidable uncertainty faced. Dynamic Adaptive Policy Pathways (DAPP) is a method developed by Haasnoot et al. (2013), which uses adaptation tipping points (the conditions under which an action no longer meets the objective(s)) and different adaptation pathways in order to support decision-making. In this study, we use the case of the coastal railway in Trelleborg to test DAPP in a Swedish context. Over the course of three workshops, various stakeholders are engaged to discuss (1) the vulnerabilities, goals, and uncertainties of the system, (2) different possible adaptation solutions, and (3) different signals and thresholds for each of the solutions thus creating possible adaptation pathways. The workshops highlight the importance of stakeholder engagement when working with climate change adaptation and how adaptation can be more flexible and give insights to the barriers and opportunities for using DAPP for flexible adaptation planning in a Swedish context.
 
 Haasnoot, M., Kwakkel, J. H., Walker, W. E., & Ter Maat, J. (2013). Dynamic adaptive policy pathways: A method for crafting robust decisions for a deeply uncertain world. Global Environmental Change, 23(2), 485–498. https://doi.org/10.1016/j.gloenvcha.2012.12.006 [:arrow_up_small:](#abs-ochsner)
+
+
+#### Educating Decision-Makers about Toxicological Risks and Uncertainties for Ethical Decisions\| Christina Carrozzo Hellevik, NTNU  {#abs-hellevik}
+
+[:arrow_up_small:](#abs-hellevik)
 
 [:arrow_up_small:](#sec-program)

@@ -2,60 +2,62 @@
 title: "Participants"
 ---
 
-Keynote	Danielle Timmermans
+Keynote Danielle Timmermans
 
-Keynote	Ellen Peters
+Keynote Ellen Peters
 
-Keynote	Joseph (Jay) Kadane
+Keynote Joseph (Jay) Kadane
 
-Moderator	Johannes Persson
+Moderator Johannes Persson
 
-Moderator	Ragnar Löfstedt
+Moderator Ragnar Löfstedt
 
-Moderator/Poster	Ullrika Sahlin
+Moderator/Poster Ullrika Sahlin
 
-Talk	Aitor Marcos Diaz
+Talk Aitor Marcos Diaz
 
-Talk	Anders Nordgaard
+Talk Anders Nordgaard
 
-Talk	Christoffer Carstens
+Talk Christoffer Carstens
 
-Talk	Erik Løhre
+Talk Erik Løhre
 
-Talk	Helen Joffe
+Talk Helen Joffe
 
-Talk	Karina Barquet
+Talk Karina Barquet
 
-Talk	Kevin Wilson
+Talk Kevin Wilson
 
-Talk	Linda Schenk
+Talk Linda Schenk
 
-Talk	Matthias Troffaes
+Talk Matthias Troffaes
 
-Talk	Neelke Doorn
+Talk Neelke Doorn
 
-Talk	Tom Logan
+Talk Tom Logan
 
-Poster	Henrik Thorén
+Poster Henrik Thorén
 
-Poster	Isha Saxena
+Poster Isha Saxena
 
-Poster	Michelle Ochsner 
+Poster Michelle Ochsner
 
-Poster	Sarah Duckett
+Poster Sarah Duckett
 
-Attend	Annika Wallin
+Poster Christina Carrozzo Hellevik
 
-Attend	Christina Carrozzo Hellevik
+Attend Annika Wallin
 
-Attend	Dragi Anevski 
+Attend Christina Carrozzo Hellevik
 
-Attend	Niklas Vareman
+Attend Dragi Anevski
 
-Attend	Nils Eric Sahlin
+Attend Niklas Vareman
 
-Attend	Rasmus Bååth
+Attend Nils Eric Sahlin
 
-Attend	Rob Smal
+Attend Rasmus Bååth
+
+Attend Rob Smal
 
 Further attendees to be confirmed
