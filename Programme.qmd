@@ -19,6 +19,8 @@ from: markdown+emoji
 
 :microphone: [Experiences from testing methods for decision making under deep uncertainty (DMDU) in relation to climate change adaptation in Swedish municipalities](#abs-carstens) Christoffer Carstens
 
+:microphone: [How risk and uncertainty are treated in some various fields](#abs-lundh) Torbjörn Lundh
+
 :microphone: [Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability](#abs-troffaes) Matthias Troffaes
 
 :microphone: [Selecting the Right Decision Making Under Deep Uncertainty Approaches for Climate Adaptation Planning](#abs-logan) Tom Logan
@@ -103,6 +105,24 @@ Strategic climate adaptation is characterized by long-term decisions where scien
 In the research program ROBUSTA (Robust decisions to manage climate risks in Sweden, 2015-2020) DMDU methods were both evaluated and tested within municipal spatial planning processes. The program developed into several implementation projects, in which actual tools were developed and tested, as well as new guidelines. In 2023 a new policy lab for climate adaptation was accepted, including the County Administrative Board of Gävleborg and all 10 municipalities within the county.
 
 Experiences from the almost 10-year programs indicate that municipalities in general lack methodology, guidelines and experience from DMDU. Further, all implementation projects were considered helpful for municipal climate change adaptation; they provided opportunities for knowledge sharing and management of complexities between organizational boundaries as well as concrete methods for incorporating complex climate data into the decision-making process. Several possible obstacles for full-scale implementation were also identified, including regulatory and legal hindrances, as well as organizational challenges, related to both competence and resourses. [:arrow_up_small:](#sec-program)
+
+#### How risk and uncertainty are treated in some various fields \| Torbjörn Lundh, Mathematical Sciences, Chalmers and University of Gothenburg, Sweden {#abs-lundh}
+
+We will start by recalling a few different ways to describe risk and uncertainty in different scientific models  and underline the power of factorization or “to carve nature by its joints”.  I will also suggest a new, to my knowledge, generalization of the definition of risk. 
+
+We will conclude with five concrete example from different fields and their respective challenges to handle risk and uncertainty: 
+
+i)	Covid-19, including some cultural differences in expressing uncertainty 
+
+ii)	Setting limit values of environmental pollutants 
+
+iii)	Combinatorial cancer treatments
+
+iv)	Medical compression therapy for edema and chronic leg wounds
+
+v)	Existential risk of AI, e.g. P(doom).
+
+ [:arrow_up_small:](#sec-program)
 
 #### Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability \| Matthias Troffaes, Durham University, UK {#abs-troffaes}
 
