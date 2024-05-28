@@ -5,71 +5,62 @@ from: markdown+emoji
 
 # Program {#sec-program}
 
-:bulb:: Keynote, :microphone:: Invited or contributing presentation, :clipboard:: Poster
+:bulb:: Keynote, :microphone:: Invited or contributing presentation, :clipboard:: Poster highlight presentation
 
+
+11 June 14.00 Welcome                                                                                                                                                                       
 :bulb: [Interpersonal Bayesian Analysis: Foundations, Ethics, and Communication](#abs-kadane) Joseph (Jay) Kadane
 
-:microphone: [The Power of Emotion in Risk Communication](#abs-joffe) Helen Joffe
+:microphone: [The Power of Emotion in Risk Communication](#abs-joffe) Helen Joffe                                                                                           
 
-:microphone: [Uncertainty, expertise, and persuasion: A replication and extension of Karmarkar and Tormala (2010)](#abs-lohre) Erik Løhre et al
+:microphone: [Uncertainty, expertise, and persuasion: A replication and extension of Karmarkar and Tormala (2010)](#abs-lohre) Erik Løhre et al                             
 
+:clipboard: [Bayesian uncertainty analysis for wind energy systems](#abs-saxena) Isha Saxena                                                                                  
 
-:clipboard: [Bayesian uncertainty analysis for wind energy systems](#abs-saxena) Isha Saxena
+:clipboard: [Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway](#abs-ochsner) Michelle Ochsner et al.                                                    
 
-:clipboard: [Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway](#abs-ochsner) Michelle Ochsner et al.
+:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard                                                                       
 
+:microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk                                                   
 
-:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard
+:clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett                                        
 
-:microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk
+:clipboard: [Educating Decision-Makers about Toxicological Risks and Uncertainties for Ethical Decisions](#abs-hellevik) Christina Carrozzo Hellevik                          
 
-:clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett
+:clipboard: [(Un)certainty in a scientific conclusion and evidential probability](#abs-sahlin) Ullrika Sahlin                                                                 
 
-:clipboard: [Educating Decision-Makers about Toxicological Risks and Uncertainties for Ethical Decisions](#abs-hellevik) Christina Carrozzo Hellevik
-
-:clipboard: [(Un)certainty in a scientific conclusion and evidential probability](#abs-sahlin) Ullrika Sahlin
-
-
-:microphone: [Elicitation of structured expert judgements from groups – protocols, experiences and interpreting the results](#abs-wilson) Kevin Wilson
-
-:bulb: [Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?](#abs-timmermans) Danielle Timmermans
-
-:microphone: [Selecting the Right Decision Making Under Deep Uncertainty Approaches for Climate Adaptation Planning](#abs-logan) Tom Logan
-
-:microphone: [Exploring Customer Loyalty Changes Amid Climate Activism Targeting Oil Companies and Banks](#abs-diaz) Aitor Marcos Diaz
-
-:microphone: [The recognition and communication of nature-related risks and uncertainties under EU corporate sustainability reporting: the benefits, pitfalls, and gaps of current approaches](#abs-Kashyap) Shruti Kashyap
-
-:microphone: [Assessing large-scale climate adaptation interventions from the perspective of intergenerational justice: Preserving options and avoiding irreversible planetary loss](#abs-doorn) Neelke Doorn
-
-:bulb: [The power of numeric evidence in science communication](#abs-peters) Ellen Peters
-
-:microphone: [How risk and uncertainty are treated in some various fields](#abs-lundh) Torbjörn Lundh
-
-:microphone: [Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability](#abs-troffaes) Matthias Troffaes
-
-:microphone: [Experiences from testing methods for decision making under deep uncertainty (DMDU) in relation to climate change adaptation in Swedish municipalities](#abs-carstens) Christoffer Carstens
-
-:microphone: [Climate adaptation in multi-level governance systems: security, risk, or normal politics?](#abs-barquet) Karina Barquet
+:microphone: [Elicitation of structured expert judgements from groups – protocols, experiences and interpreting the results](#abs-wilson) Kevin Wilson                        
 
 
+17.00 Networking reception & poster session                                                                                                                                         
+19.00  Dinner at Hypoteket                                                                                                                                                           
 
-# Schedule
+12 June 10.30 :bulb: [Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?](#abs-timmermans) Danielle Timmermans  
 
-| Date    | Time  |                                       |
-|---------|-------|---------------------------------------|
-| 11 June | 14.00 | Welcome                               |
-|         |       | :bulb: Keynote                        |
-|         |       | :microphone: Contributing talks       |
-|         |       | :clipboard: Poster highlights         |
-|         | 17.00 | Networking reception & poster session |
-|         | 19.00 | Dinner                                |
-| 12 June | 10.30 | :bulb: Keynote                        |
-|         |       | :microphone: Contributing talks       |
-|         | 13.00 | Lunch                                 |
-|         | 14.00 | :bulb: Keynote                        |
-|         |       | :microphone: Contributing talks       |
-|         | 17.00 | Closing of the conference             |
+:microphone: [Selecting the Right Decision Making Under Deep Uncertainty Approaches for Climate Adaptation Planning](#abs-logan) Tom Logan                                    
+
+:microphone: [Exploring Customer Loyalty Changes Amid Climate Activism Targeting Oil Companies and Banks](#abs-diaz) Aitor Marcos Diaz                                        
+
+:microphone: [The recognition and communication of nature-related risks and uncertainties under EU corporate sustainability reporting](#abs-Kashyap) Shruti Kashyap           
+
+:microphone: [Assessing large-scale climate adaptation interventions from the perspective of intergenerational justice](#abs-doorn) Neelke Doorn                              
+
+13.00  Lunch                                                                                                                                                                  
+
+14.00 :bulb: [The power of numeric evidence in science communication](#abs-peters) Ellen Peters                                                                             
+
+:microphone: [How risk and uncertainty are treated in some various fields](#abs-lundh) Torbjörn Lundh                                                                         
+
+:microphone: [Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability](#abs-troffaes) Matthias Troffaes                    
+
+:microphone: [Experiences from decision making under deep uncertainty in relation to climate change adaptation in Swedish municipalities](#abs-carstens) Christoffer Carstens
+
+:microphone: [Climate adaptation in multi-level governance systems: security, risk, or normal politics?](#abs-barquet) Karina Barquet                                         
+
+Discussion
+
+17.00  Closing of the conference                                                                                                                                        
+
 
 # Abstracts Keynote talks
 
@@ -85,11 +76,9 @@ I review the basics of Bayesianism, emphasizing its personal or subjective roots
 
 Despite major uncertainties at the beginning of the COVID19 pandemic, communications to the public in the Netherlands often lacked references to the uncertainty of scientific knowledge about e.g. the contagiousness of the virus. Only later in the pandemic did politicians and experts more often mention the associated risks and uncertainties. This may have to do with the perception of politicians and experts that the public cannot deal with uncertainties and therefore they played down the uncertainty. Furthermore, uncertainty about scientific evidence may not have been relevant to policy decisions on measures to control the pandemic at specific phases of the pandemic. I will discuss the results of our recent interview study with Dutch policymakers, scientific experts and communications professionals involved in advising politicians on how to deal with the pandemic. [:arrow_up_small:](#sec-program)
 
-
 #### The power of numeric evidence in science communication \| Ellen Peters, University of Oregon, USA {#abs-peters}
 
 Challenges exist in presenting numeric information in science communication. For example, public innumeracy—and experts’ concerns about providing numbers—suggest not showing them. On the other hand, people often prefer getting them and their provision can increase comprehension, trust, engagement, and healthy behaviors while reducing risk overestimates and supporting decision-maker autonomy. Presenting numeric facts without considering their comprehensibility and usability though is like throwing good money after bad. Thus, we’ll briefly examine three general strategies for nurturing comprehension and use of numbers in other persons. [:arrow_up_small:](#sec-program)
-
 
 # Abstracts Invited and contributing talks
 
@@ -114,7 +103,6 @@ The probabilities assessed are in most cases subjective, i.e. they are assessed 
 #### Teaching about risk in upper secondary school science: opportunities and obstacles \| Linda Schenk, Karolinska Institutet, Sweden {#abs-schenk}
 
 Socio-scientific issues (SSI) have become an established part of science education, aiming to teach students not only about content knowledge but also about the nature of science and to offer them practice in argumentation and decision making. In the 7-year multidisciplinary project, RiskEdu, several risk-oriented SSI-teaching modules in biology, chemistry, physics and natural science were iteratively developed. To which extent risk and how to assess it were formally introduced varied. Our results show that students can participate in a risk-oriented SSI-task without having detailed knowledge of risk assessment or risk as a concept. However, when introducing students to the risk assessment structure it also served as a scaffold for their argumentation. Through the lens of RiskEdu’s empirical findings and a review of the published SSI literature, I will discuss how SSIs present opportunities for leveraging risk in science education. However, there are also obstacles and if the aim is to foster a deeper understanding of risk and risk analysis, teachers need support in policy and curricula as well as tools and teaching resources targeting these aims. [:arrow_up_small:](#sec-program)
-
 
 #### Elicitation of structured expert judgements from groups – protocols, experiences and interpreting the results \| Kevin Wilson, Newcastle University, UK {#abs-wilson}
 
@@ -142,14 +130,13 @@ Results show that participants presented with the disruptive protest scenario we
 
 When banks are targeted by disruptive protests, participants’ perception of banks’ agency decreases, whereas a disruptive protest against an oil company does not alter the perceived role of oil companies conducting climate-harmful activities. These findings demonstrate that the shift in public opinion, predicted by the Activist’s Dilemma, becomes less relevant when the targeted company's agency and responsibility in the climate crisis are clearly associated with the environmental impact of their activity. [:arrow_up_small:](#sec-program)
 
-
 #### The recognition and communication of nature-related risks and uncertainties under EU corporate sustainability reporting: the benefits, pitfalls, and gaps of current approaches \| Shruti Kashyap, The Swedish Royal Academy of Sciences, Sweden {#abs-Kashyap}
 
-The European Union (EU) is currently experiencing a new tsunami of risk-focused regulation, this time in the context of environmental and social sustainability under the EU Green Deal. Two cornerstones of this ambitious legislative package are the EU Taxonomy Regulation (“The Taxonomy”) and the Corporate Sustainability Reporting Directive (CSRD). In relation to these, technical standards in the form of the European Sustainability Reporting Standards (ESRS) are also rapidly cementing. Collectively, these instruments stand to shape corporate reporting for all large listed and unlisted firms operating in the EU that fall within compliance boundaries. Similar coverage of small and medium enterprises (SMEs) is also being developed and will come into force in the near future. 
+The European Union (EU) is currently experiencing a new tsunami of risk-focused regulation, this time in the context of environmental and social sustainability under the EU Green Deal. Two cornerstones of this ambitious legislative package are the EU Taxonomy Regulation (“The Taxonomy”) and the Corporate Sustainability Reporting Directive (CSRD). In relation to these, technical standards in the form of the European Sustainability Reporting Standards (ESRS) are also rapidly cementing. Collectively, these instruments stand to shape corporate reporting for all large listed and unlisted firms operating in the EU that fall within compliance boundaries. Similar coverage of small and medium enterprises (SMEs) is also being developed and will come into force in the near future.
 
-The environmental focus of this rapidly evolving landscape of corporate sustainability reporting is two-fold: One aim is to identify the impacts of corporate activities on the environment, and the potential risks and uncertainties that could arise or be exacerbated for the environment through these impacts. The second and more explicit aim is to identify what risks and uncertainties are posed to human societies and economies by the environment, including through the consequences of human activities on the environment. 
+The environmental focus of this rapidly evolving landscape of corporate sustainability reporting is two-fold: One aim is to identify the impacts of corporate activities on the environment, and the potential risks and uncertainties that could arise or be exacerbated for the environment through these impacts. The second and more explicit aim is to identify what risks and uncertainties are posed to human societies and economies by the environment, including through the consequences of human activities on the environment.
 
-Some human impacts on the environment are more easily measured and disclosed than others. For example, emissions reporting has largely been a successfully executed endeavour. Other human impacts such as those on biodiversity remain a significant challenge for both policy design and corporate reporting. Assessing the risks and uncertainties that arise from these impacts is a complicated issue. Making risk and uncertainty-informed decisions on how to handle and communicate these impacts is a second and equally complicated issue. 
+Some human impacts on the environment are more easily measured and disclosed than others. For example, emissions reporting has largely been a successfully executed endeavour. Other human impacts such as those on biodiversity remain a significant challenge for both policy design and corporate reporting. Assessing the risks and uncertainties that arise from these impacts is a complicated issue. Making risk and uncertainty-informed decisions on how to handle and communicate these impacts is a second and equally complicated issue.
 
 My talk will present the findings of two recently submitted papers on the topic of corporate sustainability reporting and accountability for complex nature-related risks. I will then present some insights as relevant to risk management and decision-making for corporate and policy actors, and present three key areas where we have identified a need for deeper cross-disciplinary collaborations on risk and uncertainty. [:arrow_up_small:](#sec-program)
 
@@ -179,7 +166,6 @@ v)  Existential risk of AI, e.g. P(doom).
 
 In this contribution, I will present a novel interpretation of bounded probability which is arguably more suitable for elicitation and communication of severe uncertainty in risk analysis. To do so, I propose an adjustment of Lindley's urn interpretation of probability to allow for infinite spaces and real-valued bounded expectations, which are ubiquitous in statistical analysis. I show this interpretation is mathematically equivalent to Williams's betting interpretation of lower previsions. This means that all the mathematical techniques and tools developed for lower previsions are completely accessible also under this new interpretation. I go through a small example in Bayesian elicitation and inference to show how this interpretation might work in practice. [:arrow_up_small:](#sec-program)
 
-
 #### Experiences from testing methods for decision making under deep uncertainty (DMDU) in relation to climate change adaptation in Swedish municipalities \| Christoffer Carstens, Länsstyrelsen (County Administrative Board) Gävleborg, Sweden {#abs-carstens}
 
 Strategic climate adaptation is characterized by long-term decisions where scientific support fails to give decision-makers full support (Hallegatte 2009). The uncertainties are large and, in many cases, impossible to reduce. The consequence is that many climate adaptation decisions must be made under "deep uncertainty," meaning situations in which there are uncertainties about either models, probabilities of outcomes, or how stakeholders value outcomes (Lempert et al. 2003, Marchau et al. 2019). The Swedish national strategy for climate change adaptation also highlights the need for addressing uncertainty, risk management and flexibility, without providing further guidance. Local decision makers often struggle to manage uncertainties within both the municipal practices and legal framework.
@@ -188,12 +174,9 @@ In the research program ROBUSTA (Robust decisions to manage climate risks in Swe
 
 Experiences from the almost 10-year programs indicate that municipalities in general lack methodology, guidelines and experience from DMDU. Further, all implementation projects were considered helpful for municipal climate change adaptation; they provided opportunities for knowledge sharing and management of complexities between organizational boundaries as well as concrete methods for incorporating complex climate data into the decision-making process. Several possible obstacles for full-scale implementation were also identified, including regulatory and legal hindrances, as well as organizational challenges, related to both competence and resourses. [:arrow_up_small:](#sec-program)
 
-
 #### Climate adaptation in multi-level governance systems: security, risk, or normal politics? \| Karina Barquet, Stockholm Environmental Institute, Sweden {#abs-barquet}
 
 Using a securitization lens, this article delves into the discourse surrounding the climate crisis and its impact on the making and implementation of climate adaptation strategies in Sweden. The primary objective is to discern whether climate change is understood and addressed as a crisis within Swedish climate adaptation policy, examining its practical implications from national to local levels. Through a thorough review of key documents coupled with triangulated key informant interviews, we scrutinize the discourses employed to frame climate adaptation. Specifically, we assess whether these discourses align with threatification, riskification, or normal policy paradigms, and explore the actors and tools involved in creating this framing. Our findings illustrate the emergence of the climate crisis discourse and corresponding practices at various levels of governance, occasionally differing among administrative divisions and sectors. Nationally, climate adaptation is managed akin to any other policy domain. The formulation of objectives and priorities for climate adaptation takes place through centralized decision-making, then monitored through accountability mechanisms spanning national, subregional, and local levels. The national government maintains financial and monitoring control throughout this chain. Municipalities possess significant autonomy in determining the means and methods to achieve national adaptation objectives, using funds allocated as part of the government’s general municipality budget. This local autonomy helps to explain our findings that reveal more pronounced risk-oriented discourses and practices at the local level, reflecting local public authorities' endeavors to secure resources for implementing interventions tailored to address specific local conditions. In addition to public authorities, our study underscores the influential role of experts and scientists in shaping the discourse surrounding the climate crisis at all governance levels. Taken together, these insights confirm an asymmetrical relationship regarding who informs the debate, whereby experts and scientists wield significant power in defining climate adaptation in risk terms. [:arrow_up_small:](#sec-program)
-
-
 
 # Abstracts Posters
 
