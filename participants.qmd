@@ -38,7 +38,7 @@ Talk Neelke Doorn
 
 Talk Tom Logan
 
-Poster Henrik Thorén
+Talk Shruti Kashyap
 
 Poster Isha Saxena
 
@@ -62,4 +62,3 @@ Attend Rob Smal
 
 Further attendees to be confirmed
 
-#'Torbjörn Lundh' <torbjorn.lundh@gmail.com>

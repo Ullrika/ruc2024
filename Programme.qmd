@@ -37,6 +37,8 @@ from: markdown+emoji
 
 :microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk
 
+:microphone: [The recognition and communication of nature-related risks and uncertainties under EU corporate sustainability reporting: the benefits, pitfalls, and gaps of current approaches](#abs-Kashyap) Shruti Kashyap 
+
 :clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett
 
 :clipboard: [Bayesian uncertainty analysis for wind energy systems](#abs-saxena) Isha Saxena
@@ -108,21 +110,21 @@ Experiences from the almost 10-year programs indicate that municipalities in gen
 
 #### How risk and uncertainty are treated in some various fields \| Torbjörn Lundh, Mathematical Sciences, Chalmers and University of Gothenburg, Sweden {#abs-lundh}
 
-We will start by recalling a few different ways to describe risk and uncertainty in different scientific models  and underline the power of factorization or “to carve nature by its joints”.  I will also suggest a new, to my knowledge, generalization of the definition of risk. 
+We will start by recalling a few different ways to describe risk and uncertainty in different scientific models and underline the power of factorization or “to carve nature by its joints”. I will also suggest a new, to my knowledge, generalization of the definition of risk.
 
-We will conclude with five concrete example from different fields and their respective challenges to handle risk and uncertainty: 
+We will conclude with five concrete example from different fields and their respective challenges to handle risk and uncertainty:
 
-i)	Covid-19, including some cultural differences in expressing uncertainty 
+i)  Covid-19, including some cultural differences in expressing uncertainty
 
-ii)	Setting limit values of environmental pollutants 
+ii) Setting limit values of environmental pollutants
 
-iii)	Combinatorial cancer treatments
+iii) Combinatorial cancer treatments
 
-iv)	Medical compression therapy for edema and chronic leg wounds
+iv) Medical compression therapy for edema and chronic leg wounds
 
-v)	Existential risk of AI, e.g. P(doom).
+v)  Existential risk of AI, e.g. P(doom).
 
- [:arrow_up_small:](#sec-program)
+[:arrow_up_small:](#sec-program)
 
 #### Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability \| Matthias Troffaes, Durham University, UK {#abs-troffaes}
 
@@ -173,6 +175,17 @@ Using a securitization lens, this article delves into the discourse surrounding 
 #### Teaching about risk in upper secondary school science: opportunities and obstacles \| Linda Schenk, Karolinska Institutet, Sweden {#abs-schenk}
 
 Socio-scientific issues (SSI) have become an established part of science education, aiming to teach students not only about content knowledge but also about the nature of science and to offer them practice in argumentation and decision making. In the 7-year multidisciplinary project, RiskEdu, several risk-oriented SSI-teaching modules in biology, chemistry, physics and natural science were iteratively developed. To which extent risk and how to assess it were formally introduced varied. Our results show that students can participate in a risk-oriented SSI-task without having detailed knowledge of risk assessment or risk as a concept. However, when introducing students to the risk assessment structure it also served as a scaffold for their argumentation. Through the lens of RiskEdu’s empirical findings and a review of the published SSI literature, I will discuss how SSIs present opportunities for leveraging risk in science education. However, there are also obstacles and if the aim is to foster a deeper understanding of risk and risk analysis, teachers need support in policy and curricula as well as tools and teaching resources targeting these aims. [:arrow_up_small:](#sec-program)
+
+
+#### The recognition and communication of nature-related risks and uncertainties under EU corporate sustainability reporting: the benefits, pitfalls, and gaps of current approaches \| Shruti Kashyap, The Royal Swedish Academy of Sciences, Sweden {#abs-Kashyap}
+
+The European Union (EU) is currently experiencing a new tsunami of risk-focused regulation, this time in the context of environmental and social sustainability under the EU Green Deal. Two cornerstones of this ambitious legislative package are the EU Taxonomy Regulation (“The Taxonomy”) and the Corporate Sustainability Reporting Directive (CSRD). In relation to these, technical standards in the form of the European Sustainability Reporting Standards (ESRS) are also rapidly cementing. Collectively, these instruments stand to shape corporate reporting for all large listed and unlisted firms operating in the EU that fall within compliance boundaries. Similar coverage of small and medium enterprises (SMEs) is also being developed and will come into force in the near future. 
+
+The environmental focus of this rapidly evolving landscape of corporate sustainability reporting is two-fold: One aim is to identify the impacts of corporate activities on the environment, and the potential risks and uncertainties that could arise or be exacerbated for the environment through these impacts. The second and more explicit aim is to identify what risks and uncertainties are posed to human societies and economies by the environment, including through the consequences of human activities on the environment. 
+
+Some human impacts on the environment are more easily measured and disclosed than others. For example, emissions reporting has largely been a successfully executed endeavour. Other human impacts such as those on biodiversity remain a significant challenge for both policy design and corporate reporting. Assessing the risks and uncertainties that arise from these impacts is a complicated issue. Making risk and uncertainty-informed decisions on how to handle and communicate these impacts is a second and equally complicated issue. 
+
+My talk will present the findings of two recently submitted papers on the topic of corporate sustainability reporting and accountability for complex nature-related risks. I will then present some insights as relevant to risk management and decision-making for corporate and policy actors, and present three key areas where we have identified a need for deeper cross-disciplinary collaborations on risk and uncertainty. [:arrow_up_small:](#sec-program)
 
 # Abstracts Posters
 
