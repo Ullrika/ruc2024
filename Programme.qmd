@@ -7,60 +7,58 @@ from: markdown+emoji
 
 :bulb:: Keynote, :microphone:: Invited or contributing presentation, :clipboard:: Poster highlight presentation
 
+11 June 14.00 Welcome\
+:bulb: [Interpersonal Bayesian Analysis: Foundations, Ethics, and Communication](#abs-kadane) Joseph (Jay) Kadane, Carnegie Mellon University, USA
 
-11 June 14.00 Welcome                                                                                                                                                                       
-:bulb: [Interpersonal Bayesian Analysis: Foundations, Ethics, and Communication](#abs-kadane) Joseph (Jay) Kadane
+:microphone: [The Power of Emotion in Risk Communication](#abs-joffe) Helen Joffe, University College London, UK
 
-:microphone: [The Power of Emotion in Risk Communication](#abs-joffe) Helen Joffe                                                                                           
+:microphone: [Uncertainty, expertise, and persuasion: A replication and extension of Karmarkar and Tormala (2010)](#abs-lohre) Erik Løhre et al., BI Norwegian Business School, Norway
 
-:microphone: [Uncertainty, expertise, and persuasion: A replication and extension of Karmarkar and Tormala (2010)](#abs-lohre) Erik Løhre et al                             
+:clipboard: [Bayesian uncertainty analysis for wind energy systems](#abs-saxena) Isha Saxena, Durham University, UK
 
-:clipboard: [Bayesian uncertainty analysis for wind energy systems](#abs-saxena) Isha Saxena                                                                                  
+:clipboard: [Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway](#abs-ochsner) Michelle Ochsner et al., Lund University, Sweden
 
-:clipboard: [Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway](#abs-ochsner) Michelle Ochsner et al.                                                    
+:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard, Linköping University and National Forensic Centre, Sweden
 
-:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard                                                                       
+:microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk, Karolinska Institutet, Sweden
 
-:microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk                                                   
+:clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett, King's College London, UK
 
-:clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett                                        
+:clipboard: [Educating Decision-Makers about Toxicological Risks and Uncertainties for Ethical Decisions](#abs-hellevik) Christina Carrozzo Hellevik, Department of International Business, Norwegian University of Science and Technology (NTNU)
 
-:clipboard: [Educating Decision-Makers about Toxicological Risks and Uncertainties for Ethical Decisions](#abs-hellevik) Christina Carrozzo Hellevik                          
+:clipboard: [(Un)certainty in a scientific conclusion and evidential probability](#abs-sahlin) Ullrika Sahlin, Lund University, Sweden
 
-:clipboard: [(Un)certainty in a scientific conclusion and evidential probability](#abs-sahlin) Ullrika Sahlin                                                                 
+:microphone: [Elicitation of structured expert judgements from groups – protocols, experiences and interpreting the results](#abs-wilson) Kevin Wilson, Newcastle University, UK
 
-:microphone: [Elicitation of structured expert judgements from groups – protocols, experiences and interpreting the results](#abs-wilson) Kevin Wilson                        
+17.00 Networking reception & poster session
 
+19.00 Dinner at Hypoteket
 
-17.00 Networking reception & poster session                                                                                                                                         
-19.00  Dinner at Hypoteket                                                                                                                                                           
+12 June 10.30 :bulb: [Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?](#abs-timmermans) Danielle Timmermans, Amsterdam Public Health research institute, The Netherlands
 
-12 June 10.30 :bulb: [Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?](#abs-timmermans) Danielle Timmermans  
+:microphone: [Selecting the Right Decision Making Under Deep Uncertainty Approaches for Climate Adaptation Planning](#abs-logan) Tom Logan, University of Canterbury, New Zealand
 
-:microphone: [Selecting the Right Decision Making Under Deep Uncertainty Approaches for Climate Adaptation Planning](#abs-logan) Tom Logan                                    
+:microphone: [Exploring Customer Loyalty Changes Amid Climate Activism Targeting Oil Companies and Banks](#abs-diaz) Aitor Marcos Diaz, USC Wrigley Institute for Environment and Sustainability, USA
 
-:microphone: [Exploring Customer Loyalty Changes Amid Climate Activism Targeting Oil Companies and Banks](#abs-diaz) Aitor Marcos Diaz                                        
+:microphone: [The recognition and communication of nature-related risks and uncertainties under EU corporate sustainability reporting](#abs-Kashyap) Shruti Kashyap, The Swedish Royal Academy of Sciences, Sweden
 
-:microphone: [The recognition and communication of nature-related risks and uncertainties under EU corporate sustainability reporting](#abs-Kashyap) Shruti Kashyap           
+:microphone: [Assessing large-scale climate adaptation interventions from the perspective of intergenerational justice](#abs-doorn) Neelke Doorn, Delft University of Technology, The Netherlands
 
-:microphone: [Assessing large-scale climate adaptation interventions from the perspective of intergenerational justice](#abs-doorn) Neelke Doorn                              
+13.00 Lunch
 
-13.00  Lunch                                                                                                                                                                  
+14.00 :bulb: [The power of numeric evidence in science communication](#abs-peters) Ellen Peters, University of Oregon, USA
 
-14.00 :bulb: [The power of numeric evidence in science communication](#abs-peters) Ellen Peters                                                                             
+:microphone: [How risk and uncertainty are treated in some various fields](#abs-lundh) Torbjörn Lundh, Mathematical Sciences, Chalmers and University of Gothenburg, Sweden
 
-:microphone: [How risk and uncertainty are treated in some various fields](#abs-lundh) Torbjörn Lundh                                                                         
+:microphone: [Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability](#abs-troffaes) Matthias Troffaes, Durham University, UK
 
-:microphone: [Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability](#abs-troffaes) Matthias Troffaes                    
+:microphone: [Experiences from decision making under deep uncertainty in relation to climate change adaptation in Swedish municipalities](#abs-carstens) Christoffer Carstens, Länsstyrelsen (County Administrative Board) Gävleborg, Sweden
 
-:microphone: [Experiences from decision making under deep uncertainty in relation to climate change adaptation in Swedish municipalities](#abs-carstens) Christoffer Carstens
-
-:microphone: [Climate adaptation in multi-level governance systems: security, risk, or normal politics?](#abs-barquet) Karina Barquet                                         
+:microphone: [Climate adaptation in multi-level governance systems: security, risk, or normal politics?](#abs-barquet) Karina Barquet, Stockholm Environmental Institute, Sweden
 
 Discussion
 
-17.00  Closing of the conference                                                                                                                                        
-
+17.00 Closing of the conference
 
 # Abstracts Keynote talks
 
