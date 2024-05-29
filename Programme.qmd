@@ -60,6 +60,8 @@ Discussion
 
 17.00 Closing of the conference
 
+Pub after the conference
+
 # Abstracts Keynote talks
 
 <!-- #### Title \| Author, Affiliation {#abs-lastname} -->
