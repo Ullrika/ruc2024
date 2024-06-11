@@ -5,6 +5,8 @@ from: markdown+emoji
 
 # Program {#sec-program}
 
+Venue: Forum Medicum, Sölvegatan 19, then take the elevator to the top floor
+
 :bulb:: Keynote, :microphone:: Invited or contributing presentation, :clipboard:: Poster highlight presentation
 
 11 June 14.00 Welcome\
