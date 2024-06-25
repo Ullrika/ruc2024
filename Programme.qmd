@@ -12,15 +12,21 @@ Venue: Forum Medicum, Sölvegatan 19, then take the elevator to the top floor
 11 June 14.00 Welcome\
 :bulb: [Interpersonal Bayesian Analysis: Foundations, Ethics, and Communication](#abs-kadane) Joseph (Jay) Kadane, Carnegie Mellon University, USA
 
+{{< video https://youtu.be/DJfO0PjH_kY >}}
+
 :microphone: [The Power of Emotion in Risk Communication](#abs-joffe) Helen Joffe, University College London, UK
 
 :microphone: [Uncertainty, expertise, and persuasion: A replication and extension of Karmarkar and Tormala (2010)](#abs-lohre) Erik Løhre et al., BI Norwegian Business School, Norway
+
+{{< video https://youtu.be/XZHfXQjRjBg >}}
 
 :clipboard: [Bayesian uncertainty analysis for wind energy systems](#abs-saxena) Isha Saxena, Durham University, UK
 
 :clipboard: [Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway](#abs-ochsner) Michelle Ochsner et al., Lund University, Sweden
 
-:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard, Linköping University and National Forensic Centre, Sweden
+:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard, Linköping University and National Forensic Centre, Sweden 
+
+{{< video https://youtu.be/Xk94Jag1Bzc?si=Wb0WkQeUsxrAhlDd >}}
 
 :microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk, Karolinska Institutet, Sweden
 
@@ -32,6 +38,8 @@ Venue: Forum Medicum, Sölvegatan 19, then take the elevator to the top floor
 
 :microphone: [Elicitation of structured expert judgements from groups – protocols, experiences and interpreting the results](#abs-wilson) Kevin Wilson, Newcastle University, UK
 
+{{< video https://youtu.be/E4fg9LuoDIE >}}
+
 17.00 Networking reception & poster session
 
 19.00 Dinner at Hypoteket
@@ -42,6 +50,8 @@ Venue: Forum Medicum, Sölvegatan 19, then take the elevator to the top floor
 
 :microphone: [Exploring Customer Loyalty Changes Amid Climate Activism Targeting Oil Companies and Banks](#abs-diaz) Aitor Marcos Diaz, USC Wrigley Institute for Environment and Sustainability, USA
 
+{{< video https://youtu.be/iub_TC9q_aM >}}
+
 :microphone: [The recognition and communication of nature-related risks and uncertainties under EU corporate sustainability reporting](#abs-Kashyap) Shruti Kashyap, The Swedish Royal Academy of Sciences, Sweden
 
 :microphone: [Assessing large-scale climate adaptation interventions from the perspective of intergenerational justice](#abs-doorn) Neelke Doorn, Delft University of Technology, The Netherlands
@@ -50,9 +60,15 @@ Venue: Forum Medicum, Sölvegatan 19, then take the elevator to the top floor
 
 14.00 :bulb: [The power of numeric evidence in science communication](#abs-peters) Ellen Peters, University of Oregon, USA
 
+{{< video https://youtu.be/-axEGWjYURg?si=eeyfTHcPiVz-zjP3 >}}
+
 :microphone: [How risk and uncertainty are treated in some various fields](#abs-lundh) Torbjörn Lundh, Mathematical Sciences, Chalmers and University of Gothenburg, Sweden
 
+{{< video https://youtu.be/BBNLzctnfRk >}}
+
 :microphone: [Elicitation under severe uncertainty in risk analysis: a non-betting interpretation of bounded probability](#abs-troffaes) Matthias Troffaes, Durham University, UK
+
+{{< video https://youtu.be/ON0sU6P4qUk >}}
 
 :microphone: [Experiences from decision making under deep uncertainty in relation to climate change adaptation in Swedish municipalities](#abs-carstens) Christoffer Carstens, Länsstyrelsen (County Administrative Board) Gävleborg, Sweden
 

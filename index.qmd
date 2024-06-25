@@ -15,8 +15,6 @@ links:
 
 Lund University, Sweden
 
-[Directions](directions.qmd)
-
 # Description
 
 The 4th Risk and Uncertainty Conference (RUC) will bring together world-leading scholars on risk and uncertainty communication and is scheduled to take place between June 11-12th 2024 in Lund, Sweden. [Previous RUC meetings](History.qmd)
@@ -28,6 +26,8 @@ The overarching theme this year is ***evidence and ethics in uncertainty communi
 # Programme
 
 [Overview of the programme](Programme.qmd)
+
+Recordings of presentation are available on the [RUC Youtube channel](https://youtube.com/@rucconference?si=i_I1XzrlDSj-v5F9)
 
 # Keynote Speakers
 
@@ -49,23 +49,23 @@ Professor **Danielle Timmermans**, Professor in Public Health Risk Communication
 
 > Despite major uncertainties at the beginning of the COVID19 pandemic, communications to the public in the Netherlands often lacked references to the uncertainty of scientific knowledge about e.g. the contagiousness of the virus. Only later in the pandemic did politicians and experts more often mention the associated risks and uncertainties. This may have to do with the perception of politicians and experts that the public cannot deal with uncertainties and therefore they played down the uncertainty. Furthermore, uncertainty about scientific evidence may not have been relevant to policy decisions on measures to control the pandemic at specific phases of the pandemic. I will discuss the results of our recent interview study with Dutch policymakers, scientific experts and communications professionals involved in advising politicians on how to deal with the pandemic.
 
-# Registration
+<!-- # Registration -->
 
-The number of participants is limited to 40 persons. The conference fee is 1750 SEK and the conference dinner is included in the conference fee.
+<!-- The number of participants is limited to 40 persons. The conference fee is 1750 SEK and the conference dinner is included in the conference fee. -->
 
-Contact the organisers (Ullrika Sahlin) directly that you would like to attend.
+<!-- Contact the organisers (Ullrika Sahlin) directly that you would like to attend. -->
 
-The organisers send a link for registration to those that have an accepted abstract have shown an interest that they would like to attend the meeting. We will prioritise attendees that will be active and participate in the full meeting, including the conference dinner.
+<!-- The organisers send a link for registration to those that have an accepted abstract have shown an interest that they would like to attend the meeting. We will prioritise attendees that will be active and participate in the full meeting, including the conference dinner. -->
 
-# Call for abstracts
+<!-- # Call for abstracts -->
 
-There is still room for a few more oral talks and plenty of room for posters (including voluntary highlighting talks) [Current accepted abstracts](Programme.qmd)
+<!-- There is still room for a few more oral talks and plenty of room for posters (including voluntary highlighting talks) [Current accepted abstracts](Programme.qmd) -->
 
-We will continuously review abstract submissions for oral talks or posters. We welcome diverse submissions across domains, including health, safety, politics, security, the environment, and climate change as long as the research has clear policy-implications.
+<!-- We will continuously review abstract submissions for oral talks or posters. We welcome diverse submissions across domains, including health, safety, politics, security, the environment, and climate change as long as the research has clear policy-implications. -->
 
-Submit your abstract **as soon as possible!** and also notify [Ullrika Sahlin by mail](mailto:ullrika.sahlin@cec.lu.se)
+<!-- Submit your abstract **as soon as possible!** and also notify [Ullrika Sahlin by mail](mailto:ullrika.sahlin@cec.lu.se) -->
 
-[Link to submission page](https://www.cec.lu.se/webform/ruc2024)
+<!-- [Link to submission page](https://www.cec.lu.se/webform/ruc2024) -->
 
 # Organisers
 
