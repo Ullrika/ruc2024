@@ -24,11 +24,13 @@ Venue: Forum Medicum, Sölvegatan 19, then take the elevator to the top floor
 
 :clipboard: [Sink or Swim: Dynamic Adaptation Policy Pathways for a Coastal Railway](#abs-ochsner) Michelle Ochsner et al., Lund University, Sweden
 
-:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard, Linköping University and National Forensic Centre, Sweden 
+:microphone: [Probabilistic evaluation of forensic evidence in Sweden](#abs-nordgaard) Anders Nordgaard, Linköping University and National Forensic Centre, Sweden
 
-{{< video https://youtu.be/Xk94Jag1Bzc?si=Wb0WkQeUsxrAhlDd >}}
+{{< video https://youtu.be/Xk94Jag1Bzc >}}
 
 :microphone: [Teaching about risk in upper secondary school science: opportunities and obstacles](#abs-schenk) Linda Schenk, Karolinska Institutet, Sweden
+
+{{< video https://youtu.be/xo5k-BeEjNs >}}
 
 :clipboard: [Prioritising Risk Education in Secondary Schools: Perspectives, Practicalities, and Progress](#abs-duckett) Sarah Duckett, King's College London, UK
 
@@ -47,6 +49,8 @@ Venue: Forum Medicum, Sölvegatan 19, then take the elevator to the top floor
 12 June 10.30 :bulb: [Communicating uncertainties about scientific evidence and health risks to the public during the COVID19 pandemic: a good idea?](#abs-timmermans) Danielle Timmermans, Amsterdam Public Health research institute, The Netherlands
 
 :microphone: [Selecting the Right Decision Making Under Deep Uncertainty Approaches for Climate Adaptation Planning](#abs-logan) Tom Logan, University of Canterbury, New Zealand
+
+{{< https://youtu.be/ewXd7vH13IY >}}
 
 :microphone: [Exploring Customer Loyalty Changes Amid Climate Activism Targeting Oil Companies and Banks](#abs-diaz) Aitor Marcos Diaz, USC Wrigley Institute for Environment and Sustainability, USA
 
