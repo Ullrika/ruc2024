@@ -76,6 +76,8 @@ Venue: Forum Medicum, Sölvegatan 19, then take the elevator to the top floor
 
 :microphone: [Experiences from decision making under deep uncertainty in relation to climate change adaptation in Swedish municipalities](#abs-carstens) Christoffer Carstens, Länsstyrelsen (County Administrative Board) Gävleborg, Sweden
 
+{{< video https://youtu.be/i1aQkgJFZe8 >}}
+
 :microphone: [Climate adaptation in multi-level governance systems: security, risk, or normal politics?](#abs-barquet) Karina Barquet, Stockholm Environmental Institute, Sweden
 
 Discussion
