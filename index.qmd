@@ -23,6 +23,10 @@ RUC 2024 is hosted by Medical Ethics, the Centre for Environmental and Climate S
 
 The overarching theme this year is ***evidence and ethics in uncertainty communication, judgment, and decision-making***
 
+# Photo
+
+![](img/photoofall.png)
+
 # Programme
 
 [Overview of the programme](Programme.qmd)
@@ -67,9 +71,11 @@ Professor **Danielle Timmermans**, Professor in Public Health Risk Communication
 
 <!-- [Link to submission page](https://www.cec.lu.se/webform/ruc2024) -->
 
+
+
 # Organisers
 
-::: columns
+::::: columns
 ::: {.column width="\"50%"}
 Medical Ethics, Lund University (Professor Nils-Eric Sahlin, Dr Niklas Vareman)
 
@@ -81,9 +87,9 @@ Department of Philosophy, Lund University (Professor Johannes Persson)
 ::: {.column width="\"50%"}
 ![](img/LundUniversity_C2line_RGB.png){width="44%"}
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="\"50%"}
 Department of Geography, King's College London (Professor Ragnar Löfstedt)
 :::
@@ -91,7 +97,7 @@ Department of Geography, King's College London (Professor Ragnar Löfstedt)
 ::: {.column width="\"50%"}
 ![](img/kings.png){width="44%"}
 :::
-:::
+:::::
 
 # Funding
 
